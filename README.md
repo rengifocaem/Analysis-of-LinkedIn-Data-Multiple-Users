@@ -11,7 +11,7 @@ I have seen a drastic change in my social network activity, switching my focus f
 
 I was a little surprised to see that even though I have fewer connections than other peers, the amount of connections that work at my current workplace is by far the majority of people. Working in a big campus with 1,000 plus employees has allowed me to build a network of people from my current company. To no surprise, Santa Clara University and the big tech companies of the Bay Area made this top 12 list along with some companies where my peers work.
 
-![Image of Distribution of Animal Type](https://github.com/Leo8216/Exploratory-Analysis-Austin-Animal-Center-Shelter/blob/master/images/10_Anymal_Type_Distribution_ALL.png)
+![Image of Distribution of Animal Type](https://github.com/rengifocaem/LinkedIn_Analysis/blob/master/LinkedIn%20Visualization%20(1).jpg)
 
 ### What Our Connections Do?
 
