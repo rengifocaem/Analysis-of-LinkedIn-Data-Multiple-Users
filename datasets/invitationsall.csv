@@ -1,0 +1,840 @@
+,from,to,sent_time_stamp,message,direction,day_week,new,time,year
+0,Carlos Rengifo,Daniel Friedman,2018-06-23 20:54:00,,OUTGOING,Saturday,Carlos,20,2018
+1,Carlos Rengifo,David Feliciano,2018-06-19 21:59:00,,OUTGOING,Tuesday,Carlos,21,2018
+2,Carlos Rengifo,Niels Bantilan,2018-06-08 07:58:00,"Niels, I'm completing a Master's at Santa Clara University. For my Machine Learning class final project, I along with my class mate Leo Barbosa are presenting on machine bias and will be talking about Themis-ml, I just thought sharing this with you would be cool. ",OUTGOING,Friday,Carlos,7,2018
+3,Carlos Rengifo,Necati Ertekin,2018-06-02 11:38:00,,OUTGOING,Saturday,Carlos,11,2018
+4,Carlos Rengifo,Venkat Bhethanabotla,2018-03-09 15:17:00,,OUTGOING,Friday,Carlos,15,2018
+5,Carlos Rengifo,Erin LeDell,2018-05-30 07:22:00,,OUTGOING,Wednesday,Carlos,7,2018
+6,Carlos Rengifo,Christopher DeMartini,2018-05-19 10:21:00,"Chris, thanks again for your time and insightful presentation. ",OUTGOING,Saturday,Carlos,10,2018
+7,Carlos Rengifo,Yuandong Tian,2018-04-13 21:46:00,Great talk today!,OUTGOING,Friday,Carlos,21,2018
+8,Carlos Rengifo,Carmen Ortega Alonso,2018-03-07 14:40:00,,OUTGOING,Wednesday,Carlos,14,2018
+9,Carlos Rengifo,Dipti Vachani,2018-05-05 09:16:00,Great presentation @ TiEinflect!,OUTGOING,Saturday,Carlos,9,2018
+10,Carlos Rengifo,Daniel Trepanier,2018-05-19 10:36:00,,OUTGOING,Saturday,Carlos,10,2018
+11,Carlos Rengifo,Mirko Dudas,2018-05-19 10:37:00,,OUTGOING,Saturday,Carlos,10,2018
+12,Carlos Rengifo,Alan Morrison,2018-05-19 10:34:00,,OUTGOING,Saturday,Carlos,10,2018
+13,Carlos Rengifo,Jacob Sisk,2018-05-19 10:32:00,,OUTGOING,Saturday,Carlos,10,2018
+14,Carlos Rengifo,Carina (Hengyu) Xu,2018-04-16 20:56:00,,OUTGOING,Monday,Carlos,20,2018
+15,Carlos Rengifo,Inga Mghebrishvili,2018-05-09 12:56:00,,OUTGOING,Wednesday,Carlos,12,2018
+16,Carlos Rengifo,Vishwesh (Vish) Pai,2018-05-05 10:42:00,,OUTGOING,Saturday,Carlos,10,2018
+17,Carlos Rengifo,Ashen Parikh,2018-05-04 16:43:00,,OUTGOING,Friday,Carlos,16,2018
+18,Carlos Rengifo,Piyush Modi,2018-05-04 17:34:00,,OUTGOING,Friday,Carlos,17,2018
+19,Carlos Rengifo,Lisa Kucinich,2018-04-26 12:14:00,,OUTGOING,Thursday,Carlos,12,2018
+20,Carlos Rengifo,Nate Kotila,2018-04-26 00:28:00,,OUTGOING,Thursday,Carlos,0,2018
+21,Carlos Rengifo,Nicholas Papiri,2018-04-25 17:42:00,,OUTGOING,Wednesday,Carlos,17,2018
+22,Carlos Rengifo,Shreyas Ragavan,2018-04-24 23:51:00,,OUTGOING,Tuesday,Carlos,23,2018
+23,Carlos Rengifo,Santosh  Konchada,2018-04-24 23:50:00,,OUTGOING,Tuesday,Carlos,23,2018
+24,Carlos Rengifo,Siddhant Saxena,2018-04-24 23:50:00,,OUTGOING,Tuesday,Carlos,23,2018
+25,Carlos Rengifo,Yi Chen Hsueh,2018-04-23 22:49:00,,OUTGOING,Monday,Carlos,22,2018
+26,Carlos Rengifo,Ranjith Kumar Gonugunta Venkata,2018-04-24 00:02:00,,OUTGOING,Tuesday,Carlos,0,2018
+27,Carlos Rengifo,Kevin Jolly,2018-04-23 23:48:00,,OUTGOING,Monday,Carlos,23,2018
+28,Carlos Rengifo,Eisha Mahajan,2018-04-22 21:21:00,,OUTGOING,Sunday,Carlos,21,2018
+29,Carlos Rengifo,Tejas Bhandari,2018-04-22 21:21:00,,OUTGOING,Sunday,Carlos,21,2018
+30,Carlos Rengifo,Leena Hanson,2018-04-20 00:50:00,,OUTGOING,Friday,Carlos,0,2018
+31,Carlos Rengifo,Pedro Pablo Rodillo de Vicente,2018-04-19 22:34:00,,OUTGOING,Thursday,Carlos,22,2018
+32,Carlos Rengifo,Vin Vashishta,2018-04-18 00:42:00,,OUTGOING,Wednesday,Carlos,0,2018
+33,Carlos Rengifo,Ben Taylor [DeepLearning],2018-04-17 23:35:00,,OUTGOING,Tuesday,Carlos,23,2018
+34,Carlos Rengifo,Michael Li,2018-04-17 11:22:00,,OUTGOING,Tuesday,Carlos,11,2018
+35,Carlos Rengifo,Leah McGuire,2018-04-13 21:28:00,,OUTGOING,Friday,Carlos,21,2018
+36,Carlos Rengifo,Kristen Kehrer,2018-04-14 11:40:00,,OUTGOING,Saturday,Carlos,11,2018
+37,Carlos Rengifo,Zhiyong (Joe) Xie,2018-04-13 21:29:00,,OUTGOING,Friday,Carlos,21,2018
+38,Carlos Rengifo,Romer Rosales,2018-04-13 13:17:00,,OUTGOING,Friday,Carlos,13,2018
+39,Carlos Rengifo,Erika Rocha-Perez,2018-04-11 07:39:00,,OUTGOING,Wednesday,Carlos,7,2018
+40,Carlos Rengifo,Bill Liu,2018-04-13 21:36:00,,OUTGOING,Friday,Carlos,21,2018
+41,Carlos Rengifo,Kunal Jain,2018-04-13 05:53:00,,OUTGOING,Friday,Carlos,5,2018
+42,Carlos Rengifo,Katherine Luna,2018-03-22 00:34:00,,OUTGOING,Thursday,Carlos,0,2018
+43,Carlos Rengifo,Manohar Paluri,2018-04-13 21:28:00,,OUTGOING,Friday,Carlos,21,2018
+44,Carlos Rengifo,Rajat Monga,2018-04-13 11:47:00,,OUTGOING,Friday,Carlos,11,2018
+45,Carlos Rengifo,Xiao Zhu,2018-04-13 18:01:00,,OUTGOING,Friday,Carlos,18,2018
+46,Carlos Rengifo,suqiang song,2018-04-13 16:10:00,,OUTGOING,Friday,Carlos,16,2018
+47,Carlos Rengifo,Randy Lao ☁️,2018-04-11 21:05:00,,OUTGOING,Wednesday,Carlos,21,2018
+48,Carlos Rengifo,Amin G.,2018-04-10 22:43:00,,OUTGOING,Tuesday,Carlos,22,2018
+49,Carlos Rengifo,Kyle McKiou,2018-04-10 22:47:00,,OUTGOING,Tuesday,Carlos,22,2018
+50,Carlos Rengifo,Abdurahim Abdulkadir,2018-04-10 22:35:00,,OUTGOING,Tuesday,Carlos,22,2018
+51,Carlos Rengifo,Eric Weber,2018-04-10 22:47:00,,OUTGOING,Tuesday,Carlos,22,2018
+52,Carlos Rengifo,Kate Strachnyi ♕,2018-04-10 22:49:00,,OUTGOING,Tuesday,Carlos,22,2018
+53,Carlos Rengifo,Beau Walker,2018-04-10 22:59:00,,OUTGOING,Tuesday,Carlos,22,2018
+54,Carlos Rengifo,Nitin Gaonkar,2018-04-10 22:33:00,,OUTGOING,Tuesday,Carlos,22,2018
+55,Carlos Rengifo,Favio Vázquez,2018-04-10 06:28:00,,OUTGOING,Tuesday,Carlos,6,2018
+56,Carlos Rengifo,Matthew Mayo,2018-04-09 20:32:00,,OUTGOING,Monday,Carlos,20,2018
+57,Carlos Rengifo,Rohitha Gutta,2018-04-08 21:21:00,,OUTGOING,Sunday,Carlos,21,2018
+58,Carlos Rengifo,Nilufar (Nellie) Farokh-mehr,2018-04-07 13:08:00,,OUTGOING,Saturday,Carlos,13,2018
+59,Carlos Rengifo,Emy Emmanuel,2018-04-06 15:40:00,,OUTGOING,Friday,Carlos,15,2018
+60,Carlos Rengifo,Mark Meloon,2018-03-13 23:19:00,,OUTGOING,Tuesday,Carlos,23,2018
+61,Carlos Rengifo,Matthew Davidson P.E.,2018-02-11 14:54:00,,OUTGOING,Sunday,Carlos,14,2018
+62,Carlos Rengifo,Nooshin Behroyan,2018-03-26 10:03:00,,OUTGOING,Monday,Carlos,10,2018
+63,Carlos Rengifo,Sal Aminyar,2018-03-24 20:32:00,,OUTGOING,Saturday,Carlos,20,2018
+64,Carlos Rengifo,Sowmya Murali,2018-03-23 17:58:00,,OUTGOING,Friday,Carlos,17,2018
+65,Carlos Rengifo,Ken Kramer SHRM-SCP,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+66,Carlos Rengifo,"Kuvleshay Patel, PE",2018-03-16 01:55:00,,OUTGOING,Friday,Carlos,1,2018
+67,Carlos Rengifo,Mona Ahmadi- MBA,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+68,Carlos Rengifo,"Kelsey Kackman, MA, PHR",2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+69,Carlos Rengifo,Sergio Martinez,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+70,Carlos Rengifo,Laura Burdick,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+71,Carlos Rengifo,Kurt Knipmeyer,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+72,Carlos Rengifo,Pilar Guerrero,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+73,Carlos Rengifo,Lannette Reeves,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+74,Carlos Rengifo,Lisa Jordan,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+75,Carlos Rengifo,Alexandra Lapointe,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+76,Carlos Rengifo,Mark Jaroszeski,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+77,Carlos Rengifo,Luis Cintron,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+78,Carlos Rengifo,Nina Naas,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+79,Carlos Rengifo,Sandy Correll,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+80,Carlos Rengifo,Ana Jimenez,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+81,Carlos Rengifo,Raymond Pahl,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+82,Carlos Rengifo,"Ana Ysabel Rioja, Ph.D.",2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+83,Carlos Rengifo,Drew Burgett,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+84,Carlos Rengifo,Arturo Rios,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+85,Carlos Rengifo,Carlos Rengifo,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+86,Carlos Rengifo,Jim Gibson,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+87,Carlos Rengifo,Justine Daly,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+88,Carlos Rengifo,Hiroko Kusuda,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+89,Carlos Rengifo,Jason Rejman,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+90,Carlos Rengifo,Imani Sylveser,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+91,Carlos Rengifo,Frances Valdez,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+92,Carlos Rengifo,Rose Straub,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+93,Carlos Rengifo,Arturo R. Rios,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+94,Carlos Rengifo,Monica Naranjo,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+95,Carlos Rengifo,Holmes Naranjo,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+96,Carlos Rengifo,Cebien Alty,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+97,Carlos Rengifo,Jeremy Schifeling,2018-03-14 22:15:00,,OUTGOING,Wednesday,Carlos,22,2018
+98,Carlos Rengifo,Tom Ricevuto,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+99,Carlos Rengifo,Ming-Chang(Kevin) Chiang,2018-03-14 01:08:00,,OUTGOING,Wednesday,Carlos,1,2018
+100,Carlos Rengifo,Ren Hui,2018-03-14 01:08:00,,OUTGOING,Wednesday,Carlos,1,2018
+101,Carlos Rengifo,Selma Hokenek,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+102,Carlos Rengifo,Juliana Enders,2018-03-13 22:12:00,,OUTGOING,Tuesday,Carlos,22,2018
+103,Carlos Rengifo,Toby McChesney,2018-03-13 19:36:00,,OUTGOING,Tuesday,Carlos,19,2018
+104,Carlos Rengifo,Hai Guan,2018-03-13 14:29:00,,OUTGOING,Tuesday,Carlos,14,2018
+105,Carlos Rengifo,Vibhu Saxena,2018-03-13 14:29:00,,OUTGOING,Tuesday,Carlos,14,2018
+106,Carlos Rengifo,Juan Isaza,2018-03-13 16:46:00,,OUTGOING,Tuesday,Carlos,16,2018
+107,Carlos Rengifo,Raul Rivera,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+108,Carlos Rengifo,James Ramirez,2018-03-10 13:19:00,,OUTGOING,Saturday,Carlos,13,2018
+109,Carlos Rengifo,Craig Schleicher,2018-03-09 23:27:00,,OUTGOING,Friday,Carlos,23,2018
+110,Carlos Rengifo,Larry James,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+111,Carlos Rengifo,Ian Swanson,2018-03-08 14:54:00,,OUTGOING,Thursday,Carlos,14,2018
+112,Carlos Rengifo,Santosh Kulkarni,2018-03-07 23:54:00,Great presentation and insight today Santosh,OUTGOING,Wednesday,Carlos,23,2018
+113,Carlos Rengifo,Sarita Inguava,2018-03-08 08:37:00,,OUTGOING,Thursday,Carlos,8,2018
+114,Carlos Rengifo,David Talby,2018-03-07 23:54:00,,OUTGOING,Wednesday,Carlos,23,2018
+115,Carlos Rengifo,Tim Blackhurst CCHP,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+116,Carlos Rengifo,Alain Etcheberry,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+117,Carlos Rengifo,Harish Doddi,2018-03-07 23:57:00,,OUTGOING,Wednesday,Carlos,23,2018
+118,Carlos Rengifo,Mark Grover,2018-03-08 00:06:00,,OUTGOING,Thursday,Carlos,0,2018
+119,Carlos Rengifo,Michael Chui,2018-03-08 00:00:00,Great presentation today at Strata. Thanks for the information,OUTGOING,Thursday,Carlos,0,2018
+120,Carlos Rengifo,Shailesh Agarwal,2018-03-07 22:26:00,,OUTGOING,Wednesday,Carlos,22,2018
+121,Carlos Rengifo,Imran A Hajimusa,2018-03-07 22:25:00,,OUTGOING,Wednesday,Carlos,22,2018
+122,Carlos Rengifo,Kim Wagner,2018-03-07 21:09:00,,OUTGOING,Wednesday,Carlos,21,2018
+123,Carlos Rengifo,Kapil Surlaker,2018-03-07 21:45:00,,OUTGOING,Wednesday,Carlos,21,2018
+124,Carlos Rengifo,Som Shahapurkar,2018-03-07 21:08:00,,OUTGOING,Wednesday,Carlos,21,2018
+125,Carlos Rengifo,John Canfield,2018-03-07 21:10:00,,OUTGOING,Wednesday,Carlos,21,2018
+126,Carlos Rengifo,"Melanie Olsen, SHRM-CP, PHR",2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+127,Carlos Rengifo,Michelle Witulski,2018-03-07 16:39:00,,OUTGOING,Wednesday,Carlos,16,2018
+128,Carlos Rengifo,Edwin Bringas,2018-02-19 22:54:00,,OUTGOING,Monday,Carlos,22,2018
+129,Carlos Rengifo,Phil Mui,2018-02-19 22:46:00,,OUTGOING,Monday,Carlos,22,2018
+130,Carlos Rengifo,Laura Winger,2018-02-20 22:18:00,,OUTGOING,Tuesday,Carlos,22,2018
+131,Carlos Rengifo,Jackson Lane,2018-02-19 22:49:00,,OUTGOING,Monday,Carlos,22,2018
+132,Carlos Rengifo,Carlos A. Calderon,2018-02-19 22:59:00,,OUTGOING,Monday,Carlos,22,2018
+133,Carlos Rengifo,Mallik Angalakudati,2018-02-19 22:47:00,,OUTGOING,Monday,Carlos,22,2018
+134,Carlos Rengifo,Spencer Ford,2018-02-01 21:21:00,,OUTGOING,Thursday,Carlos,21,2018
+135,Carlos Rengifo,Sudhir Wadhwa,2018-02-07 00:55:00,,OUTGOING,Wednesday,Carlos,0,2018
+136,Carlos Rengifo,Jeremy Purdy,2018-01-10 22:36:00,,OUTGOING,Wednesday,Carlos,22,2018
+137,Carlos Rengifo,"Sumeet Singh, P.E.",2018-01-26 16:11:00,,OUTGOING,Friday,Carlos,16,2018
+138,Rebecca Mitchell,Carlos Rengifo,2018-06-13 16:11:00,,INCOMING,Wednesday,Carlos,16,2018
+139,Marc Sylvestre,Carlos Rengifo,2018-05-31 04:06:00,,INCOMING,Thursday,Carlos,4,2018
+140,Abbas Abdullah,Carlos Rengifo,2018-05-28 06:23:00,,INCOMING,Monday,Carlos,6,2018
+141,Karli Maeda,Carlos Rengifo,2018-05-20 22:44:00,,INCOMING,Sunday,Carlos,22,2018
+142,Vinit Nair,Carlos Rengifo,2018-05-19 14:49:00,,INCOMING,Saturday,Carlos,14,2018
+143,"Karlo Elamparo, CFA",Carlos Rengifo,2018-05-16 09:29:00,,INCOMING,Wednesday,Carlos,9,2018
+144,Tatiana Delledera,Carlos Rengifo,2018-05-07 11:33:00,,INCOMING,Monday,Carlos,11,2018
+145,Charlie Poore,Carlos Rengifo,2018-05-04 19:39:00,,INCOMING,Friday,Carlos,19,2018
+146,Harshit Shah,Carlos Rengifo,2018-05-04 16:44:00,,INCOMING,Friday,Carlos,16,2018
+147,Sparsh Garg,Carlos Rengifo,2018-04-25 12:27:00,,INCOMING,Wednesday,Carlos,12,2018
+148,Sheila Adams Sapper,Carlos Rengifo,2018-04-23 14:57:00,Hi Carlos - I'm a fellow DSDJ member and I'm happy to connect with you here as well!,INCOMING,Monday,Carlos,14,2018
+149,Joohyeun Yi,Carlos Rengifo,2018-04-06 12:28:00,,INCOMING,Friday,Carlos,12,2018
+150,Luke Guest,Carlos Rengifo,2018-04-04 07:09:00,,INCOMING,Wednesday,Carlos,7,2018
+151,Michael Hampton,Carlos Rengifo,2018-04-03 18:36:00,,INCOMING,Tuesday,Carlos,18,2018
+152,Neville Fernandes,Carlos Rengifo,2018-04-03 01:35:00,,INCOMING,Tuesday,Carlos,1,2018
+153,Brian Lonergan,Carlos Rengifo,2018-03-29 15:27:00,,INCOMING,Thursday,Carlos,15,2018
+154,Dave Matlock,Carlos Rengifo,2018-03-22 11:57:00,,INCOMING,Thursday,Carlos,11,2018
+155,Derek Scheik,Carlos Rengifo,2018-02-28 15:24:00,Looking to hire a Corp PSM Lead and PSM Engineer and believe you or someone you know could be open to one of these roles.  Would you be able to help?,INCOMING,Wednesday,Carlos,15,2018
+156,Jesse Cooper,Carlos Rengifo,2018-02-25 17:54:00,,INCOMING,Sunday,Carlos,17,2018
+157,Jordan Miller,Carlos Rengifo,2018-02-24 18:47:00,"Hi Carlos - wanted to tell you how the Alteryx Platform can help businesses realize the full value of their data assets. Analysts to Data Scientists are leveraging the platform today - including at PG&E. Would love to see if you could benefit as well.    Thanks,  Jordan",INCOMING,Saturday,Carlos,18,2018
+158,Ed Pollack,Carlos Rengifo,2018-01-25 07:38:00,,INCOMING,Thursday,Carlos,7,2018
+159,Mohammad Mubeen,Carlos Rengifo,2018-02-08 23:37:00,,INCOMING,Thursday,Carlos,23,2018
+160,Christopher Morgan,Carlos Rengifo,2018-02-14 11:05:00,,INCOMING,Wednesday,Carlos,11,2018
+161,Zachary Dieterle,Carlos Rengifo,2018-01-17 08:21:00,,INCOMING,Wednesday,Carlos,8,2018
+0,Daniel Friedman,Chuoran Wang,2018-08-22 14:09:00,,OUTGOING,Wednesday,Dan,14,2018
+1,Daniel Friedman,DJ Jagannathan,2018-08-22 14:10:00,,OUTGOING,Wednesday,Dan,14,2018
+2,Daniel Friedman,Mohammad Adib,2018-08-22 14:10:00,,OUTGOING,Wednesday,Dan,14,2018
+3,Daniel Friedman,Maran Nelson,2018-08-22 14:10:00,,OUTGOING,Wednesday,Dan,14,2018
+4,Daniel Friedman,Jean Pratt,2018-08-22 14:10:00,,OUTGOING,Wednesday,Dan,14,2018
+5,Daniel Friedman,Michael O'Grady,2018-08-07 20:48:00,,OUTGOING,Tuesday,Dan,20,2018
+6,Daniel Friedman,Megan Sneeringer,2018-08-08 08:12:00,,OUTGOING,Wednesday,Dan,8,2018
+7,Daniel Friedman,Joyce Tang,2018-08-09 13:08:00,,OUTGOING,Thursday,Dan,13,2018
+8,Daniel Friedman,Shalese Cordon,2018-08-08 08:19:00,,OUTGOING,Wednesday,Dan,8,2018
+9,Daniel Friedman,Kristi Kooyman,2018-08-08 08:05:00,,OUTGOING,Wednesday,Dan,8,2018
+10,Daniel Friedman,Jill Clark,2018-08-08 08:09:00,,OUTGOING,Wednesday,Dan,8,2018
+11,Daniel Friedman,Hayley Wolf,2018-08-08 08:17:00,,OUTGOING,Wednesday,Dan,8,2018
+12,Daniel Friedman,Margaret Mandich,2018-08-08 08:10:00,,OUTGOING,Wednesday,Dan,8,2018
+13,Daniel Friedman,Damien Martin,2018-07-29 18:16:00,,OUTGOING,Sunday,Dan,18,2018
+14,Daniel Friedman,Robert Alvarez,2018-07-17 16:10:00,,OUTGOING,Tuesday,Dan,16,2018
+15,Daniel Friedman,Stephany Bittar,2018-07-18 10:18:00,,OUTGOING,Wednesday,Dan,10,2018
+16,Daniel Friedman,Alex Smith,2018-07-17 15:54:00,,OUTGOING,Tuesday,Dan,15,2018
+17,Daniel Friedman,Mattie Terzolo,2018-07-17 16:10:00,,OUTGOING,Tuesday,Dan,16,2018
+18,Daniel Friedman,Colin Nicholls,2018-07-08 09:44:00,,OUTGOING,Sunday,Dan,9,2018
+19,Daniel Friedman,Ibrahim Gabr,2018-01-30 16:27:00,,OUTGOING,Tuesday,Dan,16,2018
+20,Daniel Friedman,Dillan Patel,2018-06-06 19:14:00,,OUTGOING,Wednesday,Dan,19,2018
+21,Daniel Friedman,Ryan Barresi,2018-06-23 08:17:00,,OUTGOING,Saturday,Dan,8,2018
+22,Daniel Friedman,Mark Jones,2018-06-22 18:39:00,,OUTGOING,Friday,Dan,18,2018
+23,Daniel Friedman,Olivier Chaine,2018-06-22 18:39:00,,OUTGOING,Friday,Dan,18,2018
+24,Daniel Friedman,Ginger S.,2018-06-22 12:26:00,,OUTGOING,Friday,Dan,12,2018
+25,Daniel Friedman,Timothy Harrison,2018-06-06 19:14:00,,OUTGOING,Wednesday,Dan,19,2018
+26,Daniel Friedman,Vincent Barilla,2018-06-02 18:49:00,,OUTGOING,Saturday,Dan,18,2018
+27,Daniel Friedman,"Biljana Rolih, PhD",2018-06-02 18:49:00,,OUTGOING,Saturday,Dan,18,2018
+28,Daniel Friedman,Darren Tong,2018-06-02 18:49:00,,OUTGOING,Saturday,Dan,18,2018
+29,Daniel Friedman,Sanjiv Das,2018-06-02 11:23:00,,OUTGOING,Saturday,Dan,11,2018
+30,Daniel Friedman,Cat Boroff,2017-11-13 20:36:00,,OUTGOING,Monday,Dan,20,2017
+31,Daniel Friedman,"Deborah Berebichez, Ph.D.",2018-03-22 10:36:00,,OUTGOING,Thursday,Dan,10,2018
+32,Daniel Friedman,Daniel Licht,2018-04-25 09:56:00,,OUTGOING,Wednesday,Dan,9,2018
+33,Daniel Friedman,Michael Rapp,2018-03-22 07:54:00,,OUTGOING,Thursday,Dan,7,2018
+34,Daniel Friedman,Joseph Eddy,2018-03-22 07:54:00,,OUTGOING,Thursday,Dan,7,2018
+35,Daniel Friedman,Trent Watson,2018-03-07 21:30:00,,OUTGOING,Wednesday,Dan,21,2018
+36,Daniel Friedman,Arjun Sudhir,2018-03-10 01:12:00,,OUTGOING,Saturday,Dan,1,2018
+37,Daniel Friedman,Ryan Ponstein,2018-01-01 09:57:00,,OUTGOING,Monday,Dan,9,2018
+38,Daniel Friedman,Matt Sornson,2018-02-28 22:34:00,,OUTGOING,Wednesday,Dan,22,2018
+39,Daniel Friedman,Qian(Angie) Liang,2018-03-01 11:39:00,,OUTGOING,Thursday,Dan,11,2018
+40,shekhar sharma,Daniel Friedman,2018-08-23 09:29:00,,INCOMING,Thursday,Dan,9,2018
+41,Katie Valdez,Daniel Friedman,2018-08-20 21:24:00,,INCOMING,Monday,Dan,21,2018
+42,Xu Zhou,Daniel Friedman,2018-07-26 13:23:00,,INCOMING,Thursday,Dan,13,2018
+43,Allen Gannett,Daniel Friedman,2018-07-30 08:16:00,Daniel! Thank you so much for liking my Squawk Box post. Hope you had insightful takeaways! ,INCOMING,Monday,Dan,8,2018
+44,Reshad Reza,Daniel Friedman,2018-06-30 07:19:00,,INCOMING,Saturday,Dan,7,2018
+45,Raj veer Singh,Daniel Friedman,2018-08-02 21:18:00,,INCOMING,Thursday,Dan,21,2018
+46,Ankit Mehra,Daniel Friedman,2018-08-06 06:45:00,,INCOMING,Monday,Dan,6,2018
+47,Nabila Usmani,Daniel Friedman,2018-08-06 21:14:00,,INCOMING,Monday,Dan,21,2018
+48,Chelan Patton,Daniel Friedman,2018-08-08 19:38:00,,INCOMING,Wednesday,Dan,19,2018
+49,Mohan Raj,Daniel Friedman,2018-08-15 07:57:00,,INCOMING,Wednesday,Dan,7,2018
+50,Mouli Uddanti,Daniel Friedman,2018-08-16 06:05:00,,INCOMING,Thursday,Dan,6,2018
+51,Aleksandr Borodulin,Daniel Friedman,2018-08-17 17:33:00,,INCOMING,Friday,Dan,17,2018
+52,Wendy (Weixin) Wang,Daniel Friedman,2018-08-17 17:44:00,,INCOMING,Friday,Dan,17,2018
+53,Claire Hatton,Daniel Friedman,2018-08-18 01:04:00,,INCOMING,Saturday,Dan,1,2018
+54,Manika Maheshwari,Daniel Friedman,2018-08-19 16:30:00,,INCOMING,Sunday,Dan,16,2018
+55,Arvind Venkataraman Ganesan,Daniel Friedman,2018-08-15 13:13:00,,INCOMING,Wednesday,Dan,13,2018
+56,Arthur Miao,Daniel Friedman,2018-08-12 17:41:00,,INCOMING,Sunday,Dan,17,2018
+57,Sunanda Daftari,Daniel Friedman,2018-08-04 16:22:00,,INCOMING,Saturday,Sunanda,16,2018
+58,Brendan Herger,Daniel Friedman,2018-07-31 21:30:00,,INCOMING,Tuesday,Dan,21,2018
+59,Akshay Makar,Daniel Friedman,2018-07-30 09:49:00,,INCOMING,Monday,Dan,9,2018
+60,Parvathy Jayaprakash,Daniel Friedman,2018-07-26 17:39:00,,INCOMING,Thursday,Dan,17,2018
+61,Michael Kroog,Daniel Friedman,2018-07-26 18:55:00,,INCOMING,Thursday,Dan,18,2018
+62,Sakina Zabuawala,Daniel Friedman,2018-07-24 10:45:00,,INCOMING,Tuesday,Dan,10,2018
+63,Yingjie Yu,Daniel Friedman,2018-07-21 12:41:00,,INCOMING,Saturday,Dan,12,2018
+64,Yitzchak Yehoshua,Daniel Friedman,2018-07-18 12:38:00,,INCOMING,Wednesday,Dan,12,2018
+65,Nick Paquin,Daniel Friedman,2018-07-11 18:23:00,,INCOMING,Wednesday,Dan,18,2018
+66,Bansri Damani,Daniel Friedman,2018-07-12 02:00:00,"Hi Daniel, I noticed we both share a business growth background. Let's connect and explore ways we might be able to help and benefit one another's network OR if there is any way for us to do the business together. :)  Sincerely, - Bansri",INCOMING,Thursday,Dan,2,2018
+67,Dhanshri Kekre,Daniel Friedman,2018-07-13 23:04:00,,INCOMING,Friday,Dan,23,2018
+68,Mapeishi (Gloria) Dai,Daniel Friedman,2018-07-10 15:40:00,,INCOMING,Tuesday,Dan,15,2018
+69,Christopher Dempsey,Daniel Friedman,2018-07-10 11:30:00,,INCOMING,Tuesday,Dan,11,2018
+70,Shuang Hao,Daniel Friedman,2018-07-08 22:17:00,"Hey, I'm your student of SCU MSIS 2629.",INCOMING,Sunday,Dan,22,2018
+71,Ashwin Kumar,Daniel Friedman,2018-07-02 06:13:00,,INCOMING,Monday,Dan,6,2018
+72,Shariq Khan,Daniel Friedman,2018-06-30 22:52:00,,INCOMING,Saturday,Dan,22,2018
+73,Ren Hui,Daniel Friedman,2018-06-27 14:04:00,Hi Professor!,INCOMING,Wednesday,Ren,14,2018
+74,Alice Wu,Daniel Friedman,2018-06-27 11:59:00,,INCOMING,Wednesday,Dan,11,2018
+75,Carlos Rengifo,Daniel Friedman,2018-06-23 20:54:00,,INCOMING,Saturday,Carlos,20,2018
+76,Swaroop Sabnis,Daniel Friedman,2018-06-24 19:27:00,,INCOMING,Sunday,Dan,19,2018
+77,Andrew Huang,Daniel Friedman,2018-06-23 14:11:00,,INCOMING,Saturday,Dan,14,2018
+78,Joohyeun Yi,Daniel Friedman,2018-06-23 12:12:00,,INCOMING,Saturday,Dan,12,2018
+79,Yezhu Li,Daniel Friedman,2018-06-23 13:28:00,,INCOMING,Saturday,Dan,13,2018
+80,Sara Li,Daniel Friedman,2018-06-22 22:22:00,,INCOMING,Friday,Dan,22,2018
+81,Jordan Fine,Daniel Friedman,2018-06-21 11:43:00,,INCOMING,Thursday,Dan,11,2018
+82,Elva Shen,Daniel Friedman,2018-06-18 20:11:00,,INCOMING,Monday,Dan,20,2018
+83,Aashka Aradhya,Daniel Friedman,2018-06-19 12:34:00,,INCOMING,Tuesday,Dan,12,2018
+84,Lipin Yuan,Daniel Friedman,2018-06-19 20:07:00,,INCOMING,Tuesday,Dan,20,2018
+85,Dinesh Raj,Daniel Friedman,2018-06-18 21:54:00,,INCOMING,Monday,Dan,21,2018
+86,George Iordanescu,Daniel Friedman,2018-06-17 10:13:00,,INCOMING,Sunday,Dan,10,2018
+87,Chuchu Yuan,Daniel Friedman,2018-06-11 05:33:00,,INCOMING,Monday,Dan,5,2018
+88,eric dransfeldt,Daniel Friedman,2018-06-13 07:05:00,,INCOMING,Wednesday,Dan,7,2018
+89,Pranay Tiwari,Daniel Friedman,2018-06-15 06:26:00,,INCOMING,Friday,Dan,6,2018
+90,Eitan Schorr,Daniel Friedman,2018-06-10 11:00:00,,INCOMING,Sunday,Dan,11,2018
+91,Jasmine Wong,Daniel Friedman,2018-06-07 15:32:00,,INCOMING,Thursday,Dan,15,2018
+92,Iris Huang,Daniel Friedman,2018-06-06 23:40:00,,INCOMING,Wednesday,Dan,23,2018
+93,Abhishek Dua,Daniel Friedman,2018-06-06 15:06:00,,INCOMING,Wednesday,Dan,15,2018
+94,Sean Bowman,Daniel Friedman,2018-04-17 07:41:00,,INCOMING,Tuesday,Dan,7,2018
+95,"Abdelali El Bouchti, Ph.D, Eng.",Daniel Friedman,2018-04-29 12:39:00,,INCOMING,Sunday,Dan,12,2018
+96,Harsh Nilesh Pathak,Daniel Friedman,2018-05-08 19:23:00,,INCOMING,Tuesday,Dan,19,2018
+97,Chris Munguia,Daniel Friedman,2018-06-04 10:06:00,,INCOMING,Monday,Dan,10,2018
+98,Sonja Monteiro,Daniel Friedman,2018-05-29 18:56:00,"Hello, we’re helping the cofounders at Retina.AI hire their first Data Scientists (Chief and Senior levels), I was hoping to add you to my network. I'd love to share more details.",INCOMING,Tuesday,Dan,18,2018
+99,Matthew Lundy,Daniel Friedman,2018-06-04 05:35:00,,INCOMING,Monday,Dan,5,2018
+100,Jim Cobon             President,Daniel Friedman,2018-05-09 16:58:00,"Daniel I saw your profile on LinkedIn and I am sourcing for Revenue Modeling and Data Science Manager for the San Francisco area. This position is with StubHub in San Francisco. Let me know if you would like to know more, I’ll send the description. Jim",INCOMING,Wednesday,Dan,16,2018
+101,Praveen chowdary,Daniel Friedman,2018-05-22 23:35:00,,INCOMING,Tuesday,Dan,23,2018
+102,Martin Kemka,Daniel Friedman,2018-05-30 00:05:00,,INCOMING,Wednesday,Dan,0,2018
+103,Anand  Mohan,Daniel Friedman,2018-06-01 10:14:00,,INCOMING,Friday,Dan,10,2018
+104,Bijan Anjavi,Daniel Friedman,2018-06-01 16:09:00,,INCOMING,Friday,Dan,16,2018
+105,Thomas Bate,Daniel Friedman,2018-06-02 05:09:00,,INCOMING,Saturday,Dan,5,2018
+106,Tim Tirabassi,Daniel Friedman,2018-06-02 20:17:00,,INCOMING,Saturday,Dan,20,2018
+107,Srikanth G.,Daniel Friedman,2018-06-02 20:38:00,,INCOMING,Saturday,Dan,20,2018
+108,Sheroz Shaikh,Daniel Friedman,2018-06-03 06:01:00,,INCOMING,Sunday,Dan,6,2018
+109,Christopher Gioconda,Daniel Friedman,2018-05-28 20:50:00,,INCOMING,Monday,Dan,20,2018
+110,Ben Stern,Daniel Friedman,2018-05-27 20:39:00,,INCOMING,Sunday,Dan,20,2018
+111,"Seongjoon (""Joon"") Koo, Ph.D.",Daniel Friedman,2018-05-23 17:29:00,,INCOMING,Wednesday,Dan,17,2018
+112,Leon R,Daniel Friedman,2018-05-12 13:13:00,"Hi Daniel, I was accepted into the Metis NYC Summer Cohort.  I see you are an alumni and we have 14 mutual connections.   I am trying to build out my network in this field.  Would it be cool to connect? ",INCOMING,Saturday,Dan,13,2018
+113,"Tim Rappold, Ph.D.",Daniel Friedman,2018-05-10 09:37:00,,INCOMING,Thursday,Dan,9,2018
+114,Adam Stoltz Ed.D,Daniel Friedman,2018-05-07 14:35:00,,INCOMING,Monday,Dan,14,2018
+115,Ronnie Tyson,Daniel Friedman,2018-04-23 19:03:00,,INCOMING,Monday,Dan,19,2018
+116,Frank Tuturice Jr.,Daniel Friedman,2018-04-20 20:05:00,,INCOMING,Friday,Dan,20,2018
+117,Davis Vance,Daniel Friedman,2018-04-18 15:51:00,,INCOMING,Wednesday,Dan,15,2018
+118,Louis Ho,Daniel Friedman,2018-04-19 17:45:00,,INCOMING,Thursday,Dan,17,2018
+119,Bryan Grundy,Daniel Friedman,2018-04-15 21:44:00,,INCOMING,Sunday,Dan,21,2018
+120,Yunshi Zhao,Daniel Friedman,2018-04-11 07:56:00,,INCOMING,Wednesday,Dan,7,2018
+121,Varun Jain,Daniel Friedman,2018-04-09 03:42:00,,INCOMING,Monday,Dan,3,2018
+122,Kate Youngman,Daniel Friedman,2018-04-06 13:58:00,,INCOMING,Friday,Dan,13,2018
+123,Brian C. McMahon,Daniel Friedman,2018-04-08 13:28:00,,INCOMING,Sunday,Dan,13,2018
+124,Lewis Matthews,Daniel Friedman,2018-03-30 17:59:00,,INCOMING,Friday,Dan,17,2018
+125,Philip Zelichenko,Daniel Friedman,2018-03-31 22:50:00,"Hey Dan, nice to e-meet you! I just moved from Israel to out companies HQ to continue working as a data scientist. I was really engaged in the DS, ML and DL community in Israel and looking to pursue this objective here in SF. I was wondering if you could give me an overview of the best meetups etc? ",INCOMING,Saturday,Dan,22,2018
+126,Kundan Kumar,Daniel Friedman,2018-03-26 15:50:00,"Hi Daniel,  I am wondering if you are available in the job market to take a new job opprotunity or looking for change. I have an opportunity of Data Engineer in San Francisco, CA location. Its a very long term contract. Please let me know if you are available in the market.  Kundan",INCOMING,Monday,Dan,15,2018
+127,Ibrahim Odumas Odufowora,Daniel Friedman,2018-03-24 10:59:00,,INCOMING,Saturday,Dan,10,2018
+128,Brian Niles,Daniel Friedman,2018-03-23 03:40:00,,INCOMING,Friday,Dan,3,2018
+129,Rebekah Cunningham,Daniel Friedman,2018-03-21 19:32:00,,INCOMING,Wednesday,Dan,19,2018
+130,Thijs Lecram,Daniel Friedman,2018-03-21 04:12:00,,INCOMING,Wednesday,Dan,4,2018
+131,Mitchell Vitez,Daniel Friedman,2018-03-20 11:44:00,"Hi Daniel,  I'm an aspiring data scientist looking for advice about the field. I was wondering if I could ask you a few quick questions. Please let me know if you're up to it, and I'll send them over.  Thanks so much, Mitchell",INCOMING,Tuesday,Dan,11,2018
+132,Vladimir Lazovskiy,Daniel Friedman,2018-03-18 18:26:00,,INCOMING,Sunday,Dan,18,2018
+133,Tess Lewis,Daniel Friedman,2018-03-16 14:26:00,,INCOMING,Friday,Dan,14,2018
+134,Reuben Roth,Daniel Friedman,2018-03-14 11:51:00,"Hey Daniel, Happy Wednesday! Love your background at TargetX. You're probably not looking, but here if you need me :)",INCOMING,Wednesday,Dan,11,2018
+135,Khanh Nguyen,Daniel Friedman,2018-03-12 13:07:00,,INCOMING,Monday,Dan,13,2018
+136,Terrance Liu,Daniel Friedman,2018-03-12 12:03:00,,INCOMING,Monday,Dan,12,2018
+137,Greg T.,Daniel Friedman,2018-03-08 08:55:00,,INCOMING,Thursday,Dan,8,2018
+138,Jerry Whitaker,Daniel Friedman,2018-03-11 12:09:00,,INCOMING,Sunday,Dan,12,2018
+139,Khai Doan,Daniel Friedman,2018-03-09 17:55:00,,INCOMING,Friday,Dan,17,2018
+140,Jie Lin,Daniel Friedman,2018-03-08 21:20:00,,INCOMING,Thursday,Dan,21,2018
+141,Jud Yaski,Daniel Friedman,2018-03-07 18:13:00,,INCOMING,Wednesday,Dan,18,2018
+142,Suhail Nabulsi,Daniel Friedman,2018-03-02 09:11:00,,INCOMING,Friday,Dan,9,2018
+143,Avinash Patil (L.I.O.N),Daniel Friedman,2018-03-06 08:46:00,,INCOMING,Tuesday,Dan,8,2018
+144,David Salvador,Daniel Friedman,2018-03-06 16:29:00,,INCOMING,Tuesday,Dan,16,2018
+145,Ross Davis,Daniel Friedman,2018-03-03 17:05:00,,INCOMING,Saturday,Dan,17,2018
+146,Adam Leeb,Daniel Friedman,2018-03-02 14:53:00,,INCOMING,Friday,Dan,14,2018
+147,Keith Pescosolido,Daniel Friedman,2018-03-02 03:05:00,,INCOMING,Friday,Dan,3,2018
+148,Terry Kim,Daniel Friedman,2018-03-01 12:32:00,,INCOMING,Thursday,Dan,12,2018
+149,Francky Fouedjio,Daniel Friedman,2018-02-28 01:35:00,,INCOMING,Wednesday,Dan,1,2018
+150,Varun Sukumar,Daniel Friedman,2018-02-26 20:05:00,,INCOMING,Monday,Dan,20,2018
+151,Kevin Zhao,Daniel Friedman,2018-02-26 17:20:00,,INCOMING,Monday,Dan,17,2018
+152,Eber Alexsander Peña,Daniel Friedman,2017-12-12 10:34:00,Hello Daniel! Let me know if you're looking for new role. Let's connect. Thanks.,INCOMING,Tuesday,Dan,10,2017
+153,Aruja Gayachari,Daniel Friedman,2018-02-02 13:01:00,,INCOMING,Friday,Dan,13,2018
+154,Clare Cooper,Daniel Friedman,2018-02-13 10:26:00,,INCOMING,Tuesday,Dan,10,2018
+155,Joshua Gerardy,Daniel Friedman,2018-02-23 14:24:00,,INCOMING,Friday,Dan,14,2018
+156,Chris Liu,Daniel Friedman,2018-02-19 14:52:00,,INCOMING,Monday,Dan,14,2018
+0,Leonardo Barbosa,Hadley Wickham,2018-04-12 21:34:00,,OUTGOING,Thursday,Leo,21,2018
+1,Leonardo Barbosa,"Sumeet Singh, P.E.",2018-07-13 15:01:00,,OUTGOING,Friday,Leo,15,2018
+2,Leonardo Barbosa,Carmel Redell,2018-06-29 20:05:00,,OUTGOING,Friday,Leo,20,2018
+3,Leonardo Barbosa,Sikha Das,2018-06-29 19:41:00,,OUTGOING,Friday,Leo,19,2018
+4,Leonardo Barbosa,Anitza Seneriz,2018-06-05 13:09:00,,OUTGOING,Tuesday,Leo,13,2018
+5,Leonardo Barbosa,Daniel Cowart,2018-04-27 12:30:00,,OUTGOING,Friday,Leo,12,2018
+6,Leonardo Barbosa,Bruce Lam,2018-06-13 11:24:00,"i read an article about predicting valve failure with machine learning, and your name was on it. Impressed with the work and would like to connect to stay in touch, and if possible, learn more about how this was done.  I am a Chemical Engineer, currently pursuing a MSBA at SCU.",OUTGOING,Wednesday,Leo,11,2018
+7,Leonardo Barbosa,Jeffrey Glupker,2018-06-15 08:33:00,,OUTGOING,Friday,Leo,8,2018
+8,Leonardo Barbosa,Tim Moult,2018-06-15 08:20:00,"Tim,  I am very interedted in a position you posted, Senior Analyst - Business Development. Do you have an idea of when youll be interviewing for this role?  ill be out of the contry for the next coupoe of weeks, and would hate to miss your call.  Sincerely, Leo",OUTGOING,Friday,Leo,8,2018
+9,Leonardo Barbosa,Sander Suursalu,2018-06-13 11:16:00,,OUTGOING,Wednesday,Leo,11,2018
+10,Leonardo Barbosa,Tracey Sullivan,2018-05-26 08:48:00,,OUTGOING,Saturday,Leo,8,2018
+11,Leonardo Barbosa,Deval Pandya,2018-06-13 11:13:00,,OUTGOING,Wednesday,Leo,11,2018
+12,Leonardo Barbosa,Amit Gupta,2018-06-13 13:03:00,,OUTGOING,Wednesday,Leo,13,2018
+13,Leonardo Barbosa,Niels Bantilan,2018-06-08 08:20:00,,OUTGOING,Friday,Leo,8,2018
+14,Leonardo Barbosa,Necati Ertekin,2018-06-04 21:26:00,,OUTGOING,Monday,Leo,21,2018
+15,Leonardo Barbosa,Sanjiv Das,2018-06-04 21:27:00,,OUTGOING,Monday,Leo,21,2018
+16,Leonardo Barbosa,Erin LeDell,2018-05-29 20:56:00,,OUTGOING,Tuesday,Leo,20,2018
+17,Leonardo Barbosa,David Nguyen,2018-05-18 09:53:00,,OUTGOING,Friday,Leo,9,2018
+18,Leonardo Barbosa,Carmen Ortega Alonso,2018-03-07 14:42:00,,OUTGOING,Wednesday,Leo,14,2018
+19,Leonardo Barbosa,Olivia Gingold,2018-05-23 10:50:00,,OUTGOING,Wednesday,Leo,10,2018
+20,Leonardo Barbosa,Dipti Vachani,2018-05-04 19:08:00,,OUTGOING,Friday,Leo,19,2018
+21,Leonardo Barbosa,Christopher DeMartini,2018-05-18 16:28:00,,OUTGOING,Friday,Leo,16,2018
+22,Leonardo Barbosa,Vanessa Dellon,2018-05-04 16:26:00,,OUTGOING,Friday,Leo,16,2018
+23,Leonardo Barbosa,Piyush Modi,2018-05-04 17:15:00,,OUTGOING,Friday,Leo,17,2018
+24,Leonardo Barbosa,Melissa Farrah Penumarty,2018-05-04 12:45:00,,OUTGOING,Friday,Leo,12,2018
+25,Leonardo Barbosa,Mike Simmons,2018-04-27 12:30:00,,OUTGOING,Friday,Leo,12,2018
+26,Leonardo Barbosa,David Murphey,2018-04-27 12:31:00,,OUTGOING,Friday,Leo,12,2018
+27,Leonardo Barbosa,Rocky East,2018-04-27 12:31:00,,OUTGOING,Friday,Leo,12,2018
+28,Leonardo Barbosa,Kate Strachnyi ♕,2018-04-24 10:00:00,,OUTGOING,Tuesday,Leo,10,2018
+29,Leonardo Barbosa,Favio Vázquez,2018-04-24 09:58:00,,OUTGOING,Tuesday,Leo,9,2018
+30,Leonardo Barbosa,Randy Lao ☁️,2018-04-24 09:57:00,,OUTGOING,Tuesday,Leo,9,2018
+31,Leonardo Barbosa,Kyle McKiou,2018-04-24 09:59:00,,OUTGOING,Tuesday,Leo,9,2018
+32,Leonardo Barbosa,Eric Weber,2018-04-24 10:00:00,,OUTGOING,Tuesday,Leo,10,2018
+33,Leonardo Barbosa,Kunal Jain,2018-04-24 09:57:00,,OUTGOING,Tuesday,Leo,9,2018
+34,Leonardo Barbosa,Mark Meloon,2018-04-09 09:25:00,,OUTGOING,Monday,Leo,9,2018
+35,Leonardo Barbosa,Pedro Pablo Rodillo de Vicente,2018-04-19 22:34:00,,OUTGOING,Thursday,Leo,22,2018
+36,Leonardo Barbosa,Maria Paulina Uribe,2018-04-15 10:01:00,,OUTGOING,Sunday,Leo,10,2018
+37,Leonardo Barbosa,Ben Taylor [DeepLearning],2018-04-18 10:28:00,,OUTGOING,Wednesday,Leo,10,2018
+38,Leonardo Barbosa,Oskar Ly,2017-12-28 03:50:00,,OUTGOING,Thursday,Leo,3,2017
+39,Leonardo Barbosa,Yanqing Hou,2018-04-12 11:46:00,,OUTGOING,Thursday,Leo,11,2018
+40,Leonardo Barbosa,Brendan Dooher,2018-04-11 16:04:00,,OUTGOING,Wednesday,Leo,16,2018
+41,Leonardo Barbosa,Michael Chu,2018-04-11 08:00:00,,OUTGOING,Wednesday,Leo,8,2018
+42,Leonardo Barbosa,Neville Fernandes,2018-04-06 09:25:00,,OUTGOING,Friday,Leo,9,2018
+43,Leonardo Barbosa,Priyanka Pandey,2018-04-06 09:25:00,,OUTGOING,Friday,Leo,9,2018
+44,Leonardo Barbosa,Natalie Newman,2018-04-04 18:27:00,,OUTGOING,Wednesday,Leo,18,2018
+45,Leonardo Barbosa,Savinder Singh,2018-03-27 16:52:00,,OUTGOING,Tuesday,Leo,16,2018
+46,Leonardo Barbosa,Jessica Zounek,2018-03-27 17:34:00,,OUTGOING,Tuesday,Leo,17,2018
+47,Leonardo Barbosa,Estée C.,2018-03-27 17:15:00,,OUTGOING,Tuesday,Leo,17,2018
+48,Leonardo Barbosa,Kimberly Drury Lightning,2018-03-27 17:08:00,,OUTGOING,Tuesday,Leo,17,2018
+49,Leonardo Barbosa,Mark Anthony Alcantara,2018-03-27 15:50:00,,OUTGOING,Tuesday,Leo,15,2018
+50,Leonardo Barbosa,Roxana Ruvalcaba,2018-03-23 01:18:00,,OUTGOING,Friday,Leo,1,2018
+51,Leonardo Barbosa,Alirio Valencia,2018-02-13 19:10:00,,OUTGOING,Tuesday,Leo,19,2018
+52,Leonardo Barbosa,"Kevin Singer, P.E.",2017-10-30 22:03:00,,OUTGOING,Monday,Leo,22,2017
+53,Leonardo Barbosa,Shailesh Agarwal,2018-03-11 18:09:00,,OUTGOING,Sunday,Leo,18,2018
+54,Leonardo Barbosa,Sarita Inguava,2018-03-11 21:28:00,,OUTGOING,Sunday,Leo,21,2018
+55,Leonardo Barbosa,Toby McChesney,2018-03-18 20:26:00,,OUTGOING,Sunday,Leo,20,2018
+56,Leonardo Barbosa,Dhanshri Kekre,2018-03-14 22:42:00,,OUTGOING,Wednesday,Leo,22,2018
+57,Leonardo Barbosa,Hai Guan,2018-03-13 14:04:00,,OUTGOING,Tuesday,Leo,14,2018
+58,Leonardo Barbosa,Vibhu Saxena,2018-03-13 14:04:00,,OUTGOING,Tuesday,Leo,14,2018
+59,Leonardo Barbosa,Kyle Riener,2018-03-13 13:01:00,,OUTGOING,Tuesday,Leo,13,2018
+60,Leonardo Barbosa,Som Shahapurkar,2018-03-09 14:50:00,,OUTGOING,Friday,Leo,14,2018
+61,Leonardo Barbosa,Johnny Harrington,2018-03-07 14:33:00,,OUTGOING,Wednesday,Leo,14,2018
+62,Leonardo Barbosa,Sudhir Wadhwa,2018-03-03 18:08:00,,OUTGOING,Saturday,Leo,18,2018
+63,Leonardo Barbosa,Hailey Wilson,2018-03-02 14:22:00,,OUTGOING,Friday,Leo,14,2018
+64,Leonardo Barbosa,Ayman Ghattas,2018-03-02 14:41:00,,OUTGOING,Friday,Leo,14,2018
+65,Leonardo Barbosa,Carlos Mario Rodriguez Lara,2018-02-23 15:09:00,,OUTGOING,Friday,Leo,15,2018
+66,Leonardo Barbosa,Peter Thomas,2018-02-14 17:33:00,,OUTGOING,Wednesday,Leo,17,2018
+67,Leonardo Barbosa,Ivan Lozano,2018-02-14 17:34:00,,OUTGOING,Wednesday,Leo,17,2018
+68,Leonardo Barbosa,Maegen Smith,2018-02-14 11:09:00,,OUTGOING,Wednesday,Leo,11,2018
+69,Leonardo Barbosa,Priscilla Lim,2018-01-24 22:59:00,,OUTGOING,Wednesday,Leo,22,2018
+70,Leonardo Barbosa,amy troendle,2018-01-24 22:59:00,,OUTGOING,Wednesday,Leo,22,2018
+71,Mia Bajic,Leonardo Barbosa,2018-07-21 16:41:00,,INCOMING,Saturday,Leo,16,2018
+72,shadi aloqbi,Leonardo Barbosa,2018-07-21 09:18:00,,INCOMING,Saturday,Leo,9,2018
+73,Elizabeth Garza,Leonardo Barbosa,2018-07-16 16:23:00,"Hi Leonardo,  Thank you for responding to my message about the Process Engineer opportunity. I look forward to staying in touch with you for future opportunities.  Have a nice evening,  Elizabeth Garza 832-783-6107",INCOMING,Monday,Leo,16,2018
+74,Christopher Paller,Leonardo Barbosa,2018-07-01 19:37:00,,INCOMING,Sunday,Leo,19,2018
+75,Mustafa Ray,Leonardo Barbosa,2018-07-14 08:08:00,,INCOMING,Saturday,Leo,8,2018
+76,Hyrum Fairbanks PE,Leonardo Barbosa,2018-07-12 11:43:00,,INCOMING,Thursday,Leo,11,2018
+77,Shuang Hao,Leonardo Barbosa,2018-07-04 18:46:00,,INCOMING,Wednesday,Leo,18,2018
+78,Sushen Vithal,Leonardo Barbosa,2018-06-27 12:10:00,,INCOMING,Wednesday,Leo,12,2018
+79,"Dr. Juan G. Escobar, D.C.",Leonardo Barbosa,2018-06-20 18:29:00,,INCOMING,Wednesday,Leo,18,2018
+80,Aashka Aradhya,Leonardo Barbosa,2018-06-19 08:52:00,,INCOMING,Tuesday,Leo,8,2018
+81,Michael Wong,Leonardo Barbosa,2018-06-09 10:37:00,,INCOMING,Saturday,Leo,10,2018
+82,Paul Grobler,Leonardo Barbosa,2018-03-29 05:35:00,,INCOMING,Thursday,Leo,5,2018
+83,Michael Romero,Leonardo Barbosa,2018-06-08 17:03:00,,INCOMING,Friday,Leo,17,2018
+84,Michelle Chen,Leonardo Barbosa,2018-06-03 10:45:00,,INCOMING,Sunday,Leo,10,2018
+85,Bochen Wang,Leonardo Barbosa,2018-05-30 10:57:00,,INCOMING,Wednesday,Leo,10,2018
+86,Vinit Nair,Leonardo Barbosa,2018-05-23 22:02:00,,INCOMING,Wednesday,Leo,22,2018
+87,Brian Lonergan,Leonardo Barbosa,2018-03-29 15:27:00,,INCOMING,Thursday,Leo,15,2018
+88,"Stewart Finkel, CHMM",Leonardo Barbosa,2018-04-26 13:25:00,,INCOMING,Thursday,Leo,13,2018
+89,Maria Paulina Uribe,Leonardo Barbosa,2018-04-19 13:43:00,,INCOMING,Thursday,Leo,13,2018
+90,Neville Fernandes,Leonardo Barbosa,2018-04-03 01:37:00,,INCOMING,Tuesday,Leo,1,2018
+91,Sowmya Murali,Leonardo Barbosa,2018-03-27 20:03:00,Hi Leo! I think you’d be a great fit for Salesforce - let’s chat!,INCOMING,Tuesday,Leo,20,2018
+92,Ryo Takamori,Leonardo Barbosa,2018-03-27 17:55:00,,INCOMING,Tuesday,Leo,17,2018
+93,Ren Hui,Leonardo Barbosa,2018-03-27 17:55:00,,INCOMING,Tuesday,Ren,17,2018
+94,Matthew Kennedy,Leonardo Barbosa,2018-03-27 16:41:00,,INCOMING,Tuesday,Leo,16,2018
+95,Ajaykumar Patil,Leonardo Barbosa,2018-03-23 05:39:00,,INCOMING,Friday,Leo,5,2018
+96,Jeremy Schifeling,Leonardo Barbosa,2018-03-20 10:28:00,,INCOMING,Tuesday,Leo,10,2018
+97,Ming-Chang(Kevin) Chiang,Leonardo Barbosa,2018-03-14 11:42:00,,INCOMING,Wednesday,Leo,11,2018
+98,Andrew Huang,Leonardo Barbosa,2018-03-08 09:03:00,,INCOMING,Thursday,Leo,9,2018
+99,Mohammad Mubeen,Leonardo Barbosa,2018-02-08 23:36:00,,INCOMING,Thursday,Leo,23,2018
+100,"Chintan Patel, MS MBA",Leonardo Barbosa,2018-02-13 19:08:00,,INCOMING,Tuesday,Leo,19,2018
+101,Burkhard Birk,Leonardo Barbosa,2018-02-03 07:12:00,,INCOMING,Saturday,Leo,7,2018
+0,Ren Hui,Sunaina Batra-Saha,2018-08-23 12:59:00,"Hi Sunaina. My name is Ren Hui, an analytics graduate student in Santa Clara University. I am very interested in data science position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Thursday,Ren,12,2018
+1,Ren Hui,Ka Yan (Ariel) Yeung,2018-08-22 11:00:00,,OUTGOING,Wednesday,Ren,11,2018
+2,Ren Hui,Liqiong (Lisa) Bai,2018-08-22 08:42:00,Hi Liqiong,OUTGOING,Wednesday,Ren,8,2018
+3,Ren Hui,Baojiang (Chris) Yang,2018-08-22 10:24:00,,OUTGOING,Wednesday,Ren,10,2018
+4,Ren Hui,Lung-Ying Yu,2018-08-22 11:04:00,"Hi Lung-Ying. My name is Ren Hui, a graduate student in Santa Clara University. I am very interested in data science position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Wednesday,Ren,11,2018
+5,Ren Hui,Sharon Huang,2018-08-22 11:09:00,"Hi Sharon. My name is Ren Hui, a graduate student in Santa Clara University. I am very interested in data science position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Wednesday,Ren,11,2018
+6,Ren Hui,Surong Ruan,2018-08-22 11:00:00,"Hi Surong. My name is Ren Hui, a graduate student in Santa Clara University. I am very interested in data science position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Wednesday,Ren,11,2018
+7,Ren Hui,Wenwen Tao,2018-08-22 10:36:00,"Hi Wenwen. My name is Ren Hui, a graduate student in Santa Clara University. I am very interested in data science position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Wednesday,Ren,10,2018
+8,Ren Hui,Wei Zhang,2018-08-22 10:34:00,"Hi Wei. My name is Ren Hui, a graduate student in Santa Clara University. I am from Jiangsu, China. I am very interested in data science position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Wednesday,Ren,10,2018
+9,Ren Hui,"Jun (James) Lu, Ph.D.",2018-08-22 10:23:00,"Hi James, volleyball friend",OUTGOING,Wednesday,Ren,10,2018
+10,Ren Hui,Phillip Si,2018-08-21 20:04:00,Hi Phillip!,OUTGOING,Tuesday,Ren,20,2018
+11,Ren Hui,Song Chang,2018-08-21 20:03:00,"Hi Song. My name is Ren Hui, a data analytics graduate student in Santa Clara University. I am very interested in data scientist position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Tuesday,Ren,20,2018
+12,Ren Hui,Joy Yang,2018-08-21 11:23:00,"Hi joy. My name is Ren Hui, a business analytics graduate student in Santa Clara University. Are you still in Mixbook? I am very interested in data analyst position in this company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Tuesday,Ren,11,2018
+13,Ren Hui,Amy Dacker,2018-08-18 07:59:00,"Hi Amy. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in business analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Saturday,Ren,7,2018
+14,Ren Hui,Heidi Ann,2018-08-19 22:52:00,"Hi Heidi. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in data analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Sunday,Ren,22,2018
+15,Ren Hui,Cindy Wang,2018-08-19 22:34:00,"Hi Cindy. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in data analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Sunday,Ren,22,2018
+16,Ren Hui,Catherine Phan,2018-08-19 22:25:00,"Hi Cathrine. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in product analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Sunday,Ren,22,2018
+17,Ren Hui,Carol Fan,2018-08-19 22:23:00,"Hi Carol. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in product analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Sunday,Ren,22,2018
+18,Ren Hui,Jiaying Maria He,2018-08-19 19:59:00,,OUTGOING,Sunday,Ren,19,2018
+19,Ren Hui,Amour Kwok,2018-08-18 07:34:00,,OUTGOING,Saturday,Ren,7,2018
+20,Ren Hui,Chris Miller,2018-08-18 08:12:00,"Hi Chris. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in digital analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Saturday,Ren,8,2018
+21,Ren Hui,Raymond P. P. (Ray) Chan,2018-08-18 07:55:00,,OUTGOING,Saturday,Ren,7,2018
+22,Ren Hui,"Rico Rey Francis Holganza, Jr.",2018-08-18 12:20:00,,OUTGOING,Saturday,Ren,12,2018
+23,Ren Hui,Man Chan,2018-08-13 14:29:00,,OUTGOING,Monday,Ren,14,2018
+24,Ren Hui,Jocylen Ashton,2018-08-18 07:56:00,,OUTGOING,Saturday,Ren,7,2018
+25,Ren Hui,Audrey Yan Yu,2018-08-18 07:55:00,,OUTGOING,Saturday,Ren,7,2018
+26,Ren Hui,Jessica Barrett,2018-08-18 07:55:00,"Hi Jessica. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in business analyst position in your company. In addition, I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Saturday,Ren,7,2018
+27,Ren Hui,Kelly Cheng,2018-08-18 07:48:00,"Hi Kelly. My name is Ren Hui, a business analytics graduate student in Santa Clara University. I am very interested in analyst position in your company. I don’t need visa sponsorship to work. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Saturday,Ren,7,2018
+28,Ren Hui,Madeline Kraft,2018-08-18 07:33:00,"Hi Madeline. My name is Ren Hui, I am a business analytics graduate student in Santa Clara University. I am very interested in operations analyst position in your company. Is that Okay I connect with you and know more about the position? Thank you!",OUTGOING,Saturday,Ren,7,2018
+29,Ren Hui,Kate Wright,2018-08-18 07:32:00,"Hi Kate. My name is Ren Hui, I am a business analytics graduate student in Leavey School of Business. I am very interested in operations analyst position in your company. Is that Okay I connect with you and know more about the position? Thank you! ",OUTGOING,Saturday,Ren,7,2018
+30,Ren Hui,Manqi Wang,2018-08-15 09:05:00,"Hi Manqi. My name is Ren Hui,  a business analytics graduate student in Leavey School of Business. I am very interested in future position in your team. Is that Okay I connect with you and know more about your company? Thank you!",OUTGOING,Wednesday,Ren,9,2018
+31,Ren Hui,Flora Li,2018-08-14 08:07:00,,OUTGOING,Tuesday,Ren,8,2018
+32,Ren Hui,Xiaowen Wang,2018-08-15 08:20:00,"Hi Xiaowen. My name is Ren Hui, a Santa Clara Bronco. I am a business analytics graduate student in Leavey School of Business. I am very interested in data analyst position in your company. Is that Okay I connect with you and know more about the position? Thank you!  ",OUTGOING,Wednesday,Ren,8,2018
+33,Ren Hui,Ji Li,2018-08-15 08:46:00,"Hi Ji. My name is Ren Hui,  a business analytics graduate student in Leavey School of Business. I have insurance experience and I am very interested in future position in your team. Is that Okay I connect with you and know more about your company? Thank you!",OUTGOING,Wednesday,Ren,8,2018
+34,Ren Hui,Jingzhu Yan,2018-08-15 08:45:00,"Hi Jingzhu. My name is Ren Hui,  a business analytics graduate student in Leavey School of Business. I am very interested in future position in your team. Is that Okay I connect with you and know more about your company? Thank you!",OUTGOING,Wednesday,Ren,8,2018
+35,Ren Hui,Cassandra Kwan,2018-08-15 08:18:00,"Hi Cassandra. My name is Ren Hui, a Santa Clara Bronco. I am a business analytics graduate student in Leavey School of Business. I am very interested in data analyst position in your company. I am very serious about that. Is that okay I connect with you and know more about this position? Thank you! ",OUTGOING,Wednesday,Ren,8,2018
+36,Ren Hui,Wendy Weng,2018-08-13 14:28:00,,OUTGOING,Monday,Ren,14,2018
+37,Ren Hui,Jerald Lo,2018-08-13 10:22:00,,OUTGOING,Monday,Ren,10,2018
+38,Ren Hui,Jason Chung,2018-08-13 10:23:00,,OUTGOING,Monday,Ren,10,2018
+39,Ren Hui,Kanhua Pan,2018-08-03 19:24:00,,OUTGOING,Friday,Ren,19,2018
+40,Ren Hui,Daniel Man,2018-06-27 15:17:00,,OUTGOING,Wednesday,Ren,15,2018
+41,Ren Hui,Nico Biehler,2018-04-20 09:11:00,Hi Sir I am the airbnb host. It's our pleasure to host you. My wife was student of Cal State Fullerton too. What a surprise. Can I connect with you?,OUTGOING,Friday,Ren,9,2018
+42,Ren Hui,mario lorente,2018-01-27 17:26:00,,OUTGOING,Saturday,Ren,17,2018
+43,Ren Hui,Sarita Inguava,2018-06-26 16:38:00,,OUTGOING,Tuesday,Ren,16,2018
+44,Ren Hui,Beichuan(Crystal) Liu,2018-06-30 09:58:00,,OUTGOING,Saturday,Ren,9,2018
+45,Ren Hui,Daniel Friedman,2018-06-27 14:04:00,Hi Professor!,OUTGOING,Wednesday,Ren,14,2018
+46,Ren Hui,Stephen Hung,2018-06-27 15:15:00,,OUTGOING,Wednesday,Ren,15,2018
+47,Ren Hui,Shubhra B Rajadhyaksha,2018-06-27 15:16:00,,OUTGOING,Wednesday,Ren,15,2018
+48,Ren Hui,Elena Zhu,2018-05-06 07:58:00,,OUTGOING,Sunday,Ren,7,2018
+49,Ren Hui,Dan Li,2018-06-27 14:03:00,Hi Dan!,OUTGOING,Wednesday,Ren,14,2018
+50,Ren Hui,Sakshi Chhabra,2018-06-26 21:33:00,,OUTGOING,Tuesday,Ren,21,2018
+51,Ren Hui,Jonathan Qiang Li,2018-06-24 22:26:00,"Hi Jonathan, can I add you as linkedin friend? Appreciate it!",OUTGOING,Sunday,Ren,22,2018
+52,Ren Hui,Aashka Aradhya,2018-06-24 22:18:00,,OUTGOING,Sunday,Ren,22,2018
+53,Ren Hui,Isabelle Chai,2018-06-20 10:46:00,,OUTGOING,Wednesday,Ren,10,2018
+54,Ren Hui,Aparna Mahalingam,2018-06-20 10:45:00,,OUTGOING,Wednesday,Ren,10,2018
+55,Ren Hui,Melissa Hutchinson,2018-01-02 18:02:00,,OUTGOING,Tuesday,Ren,18,2018
+56,Ren Hui,Matthew Chan,2018-06-13 19:14:00,,OUTGOING,Wednesday,Ren,19,2018
+57,Ren Hui,Lola Jiang,2018-06-13 08:24:00,,OUTGOING,Wednesday,Ren,8,2018
+58,Ren Hui,Zheli(Rick) Chen,2018-06-13 07:05:00,,OUTGOING,Wednesday,Ren,7,2018
+59,Ren Hui,Linchao (Anna) Chen,2018-06-09 08:33:00,,OUTGOING,Saturday,Ren,8,2018
+60,Ren Hui,David Chen,2018-01-27 19:09:00,,OUTGOING,Saturday,Ren,19,2018
+61,Ren Hui,Tingcheng Li,2018-05-06 07:58:00,,OUTGOING,Sunday,Ren,7,2018
+62,Ren Hui,Gang Su,2018-05-30 09:52:00,,OUTGOING,Wednesday,Ren,9,2018
+63,Ren Hui,Kelly Clark - Hiring for Analytics,2017-12-14 08:47:00,,OUTGOING,Thursday,Ren,8,2017
+64,Ren Hui,Aayush Sood,2017-12-18 08:51:00,,OUTGOING,Monday,Ren,8,2017
+65,Ren Hui,Lara Bathurst,2018-01-29 14:49:00,,OUTGOING,Monday,Ren,14,2018
+66,Ren Hui,Andrew Powell,2017-12-07 10:56:00,,OUTGOING,Thursday,Ren,10,2017
+67,Ren Hui,Ram Pathangi,2018-01-27 17:26:00,,OUTGOING,Saturday,Ren,17,2018
+68,Ren Hui,S S Panicker,2017-12-11 11:45:00,,OUTGOING,Monday,Ren,11,2017
+69,Ren Hui,Kara Arola,2018-01-29 14:49:00,,OUTGOING,Monday,Ren,14,2018
+70,Ren Hui,Anshu Padha,2017-12-11 11:46:00,,OUTGOING,Monday,Ren,11,2017
+71,Ren Hui,Elaine (Qilin) Chen,2017-12-03 17:11:00,,OUTGOING,Sunday,Ren,17,2017
+72,Ren Hui,Dave Shesgreen,2018-01-13 21:09:00,"Hi Dave. My name is Ren Hui, a Santa Clara Bronco. I am a business analytics graduate student in Leavey School of Business. I am very interested in your summer intern position. Can I connect with you?",OUTGOING,Saturday,Ren,21,2018
+73,Ren Hui,Shalaka Dixit,2017-12-06 14:01:00,,OUTGOING,Wednesday,Ren,14,2017
+74,Ren Hui,Rafael Torres,2018-05-09 21:24:00,Hi Sir Thank you for your great lecture. It is very helpful for me and leads me to think.,OUTGOING,Wednesday,Ren,21,2018
+75,Ren Hui,Howard Yu,2018-01-27 17:38:00,,OUTGOING,Saturday,Ren,17,2018
+76,Ren Hui,Soudamini Modak,2017-12-06 14:00:00,,OUTGOING,Wednesday,Ren,14,2017
+77,Ren Hui,Rui Costa,2018-04-30 19:06:00,"Hi Rui Costa, you have a great name. We all know that super soccer star. Just let you know that I appreciate very much for your referral and wish you all the best.",OUTGOING,Monday,Ren,19,2018
+78,Ren Hui,Jia (Alex) Wang,2018-05-06 07:58:00,,OUTGOING,Sunday,Ren,7,2018
+79,Ren Hui,selena liu,2018-05-06 07:58:00,,OUTGOING,Sunday,Ren,7,2018
+80,Ren Hui,Xiaolei Zhang,2018-01-12 15:41:00,,OUTGOING,Friday,Ren,15,2018
+81,Ren Hui,Saniya Shukla,2017-12-06 14:01:00,,OUTGOING,Wednesday,Ren,14,2017
+82,Ren Hui,Qichu Lu,2018-05-01 15:26:00,,OUTGOING,Tuesday,Ren,15,2018
+83,Ren Hui,Rebecca Dorn,2017-12-29 09:15:00,,OUTGOING,Friday,Ren,9,2017
+84,Ren Hui,Minh Tran Virasak,2017-12-11 08:45:00,Hi Minh. I am a student in MSBA program. Can I connect with you? ,OUTGOING,Monday,Ren,8,2017
+85,Ren Hui,Anthony Pan,2018-04-28 19:59:00,,OUTGOING,Saturday,Ren,19,2018
+86,Ren Hui,Anyi Huang,2017-11-29 18:58:00,,OUTGOING,Wednesday,Ren,18,2017
+87,Ren Hui,Feng Qian,2018-04-24 22:04:00,宜兴宁,OUTGOING,Tuesday,Ren,22,2018
+88,Ren Hui,Sharon Ren,2018-04-21 10:46:00,,OUTGOING,Saturday,Ren,10,2018
+89,Ren Hui,Austin Costello,2018-03-21 11:33:00,,OUTGOING,Wednesday,Ren,11,2018
+90,Ren Hui,Julia Leong,2018-04-21 10:46:00,,OUTGOING,Saturday,Ren,10,2018
+91,Ren Hui,Sam Phadke,2018-04-19 11:24:00,"Hi Sir, Thank you very much for your advice yesterday. I listened to KQED this morning, which is great! I appreciate your help and hope can have a connection with you.",OUTGOING,Thursday,Ren,11,2018
+92,Ren Hui,Dhivya Rajasekar,2018-01-27 19:10:00,,OUTGOING,Saturday,Ren,19,2018
+93,Ren Hui,Thanaa Makdsi,2018-04-16 21:26:00,,OUTGOING,Monday,Ren,21,2018
+94,Ren Hui,Anusha Tiwari Garg,2017-12-05 08:08:00,,OUTGOING,Tuesday,Ren,8,2017
+95,Ren Hui,Melinda Berlant Gurman,2018-04-13 13:07:00,"Hi Melinda, thank you very much for all you done for me. I really appreciate that. Hope I can connect with you and let you know I am keeping improving.",OUTGOING,Friday,Ren,13,2018
+96,Ren Hui,Sarah Bird,2018-04-09 11:00:00,,OUTGOING,Monday,Ren,11,2018
+97,Ren Hui,Tamara Rea Thompson,2018-01-12 20:25:00,,OUTGOING,Friday,Ren,20,2018
+98,Ren Hui,Brandon Wadley,2017-12-14 08:48:00,,OUTGOING,Thursday,Ren,8,2017
+99,Ren Hui,Ginny Lu,2018-02-06 07:46:00,,OUTGOING,Tuesday,Ren,7,2018
+100,Ren Hui,"Chris Knauer, ARM",2017-12-29 09:37:00,Hi Chris. I am very interested in Risk Economics Analyst intern position in Marsh.  I used to work in China insurance industry. I noticed that you are from SCU too. Can I connect with you?,OUTGOING,Friday,Ren,9,2017
+101,Ren Hui,YUN QIN,2018-01-25 21:48:00,Hi Yun very happy to meet you this afternoon! Can I connect with you?,OUTGOING,Thursday,Ren,21,2018
+102,Ren Hui,James McCain,2018-01-13 20:51:00,,OUTGOING,Saturday,Ren,20,2018
+103,Ren Hui,Jun Liu(Permanent Resident),2017-12-03 17:11:00,,OUTGOING,Sunday,Ren,17,2017
+104,Ren Hui,Jamie Wei,2018-03-29 09:55:00,,OUTGOING,Thursday,Ren,9,2018
+105,Ren Hui,Yiting Yu 余奕霆,2017-12-05 08:08:00,,OUTGOING,Tuesday,Ren,8,2017
+106,Ren Hui,Aiana Abaikanova,2018-03-27 16:05:00,,OUTGOING,Tuesday,Ren,16,2018
+107,Ren Hui,Hai Guan,2018-03-27 18:03:00,,OUTGOING,Tuesday,Ren,18,2018
+108,Ren Hui,Leonardo Barbosa,2018-03-27 17:55:00,,OUTGOING,Tuesday,Ren,17,2018
+109,Ren Hui,"Leslie Ma, MBA",2017-11-23 07:55:00,,OUTGOING,Thursday,Ren,7,2017
+110,Ren Hui,Ross Iakovlev,2018-03-16 21:59:00,,OUTGOING,Friday,Ren,21,2018
+111,Ren Hui,Carmen Ng,2017-12-14 08:47:00,,OUTGOING,Thursday,Ren,8,2017
+112,Ren Hui,"Swati Ghule, PMP",2017-12-06 14:01:00,,OUTGOING,Wednesday,Ren,14,2017
+113,Ren Hui,Harrison Ng,2017-11-23 07:55:00,,OUTGOING,Thursday,Ren,7,2017
+114,Ren Hui,Laura Anne Dapper,2018-01-27 17:26:00,,OUTGOING,Saturday,Ren,17,2018
+115,Ren Hui,Shirley Dong,2018-03-13 10:23:00,,OUTGOING,Tuesday,Ren,10,2018
+116,Ren Hui,"Trang Le, CFA®, MSF",2017-11-22 14:33:00,,OUTGOING,Wednesday,Ren,14,2017
+117,Ren Hui,Viram Shah,2017-12-11 22:24:00,,OUTGOING,Monday,Ren,22,2017
+118,Ren Hui,Patrizia Baynes,2017-12-29 09:38:00,Hi Patrizia. I am very interested in Risk Economics Analyst intern position in Marsh.  I used to work in China insurance industry. I noticed that you are from SCU too. Can I connect with you?,OUTGOING,Friday,Ren,9,2017
+119,Ren Hui,Pooja Raut,2017-12-11 11:45:00,,OUTGOING,Monday,Ren,11,2017
+120,Ren Hui,Mike Kyriacou,2018-03-01 21:45:00,"Hi Sir, My name is Ren Hui. I am a Business Analytics student in SCU. I am very interested in practicum project in Strattica Labs. Can I connect with you, Sir?",OUTGOING,Thursday,Ren,21,2018
+121,Ren Hui,Sudha Nemani,2018-01-27 17:26:00,,OUTGOING,Saturday,Ren,17,2018
+122,Ren Hui,Diviya Loomba,2017-12-04 21:38:00,,OUTGOING,Monday,Ren,21,2017
+123,Ren Hui,Johnson Koo,2018-02-26 07:32:00,,OUTGOING,Monday,Ren,7,2018
+124,Ren Hui,Alec Barrett-Wilsdon,2018-03-08 20:59:00,Hi Alec. Thank you for that opportunity. Really nice talking with you. Can I connect with you?,OUTGOING,Thursday,Ren,20,2018
+125,Ren Hui,Cindy Zhou,2018-03-08 13:32:00,,OUTGOING,Thursday,Ren,13,2018
+126,Ren Hui,Qiyan Mao,2018-03-08 13:31:00,,OUTGOING,Thursday,Ren,13,2018
+127,Ren Hui,Charlie Farrell,2018-01-12 15:41:00,,OUTGOING,Friday,Ren,15,2018
+128,Ren Hui,Jeremy Shih,2018-01-09 20:39:00,,OUTGOING,Tuesday,Ren,20,2018
+129,Ren Hui,Shashank Nimje,2017-12-04 21:38:00,,OUTGOING,Monday,Ren,21,2017
+130,Ren Hui,Bhushan Kothari,2017-12-05 08:08:00,,OUTGOING,Tuesday,Ren,8,2017
+131,Ren Hui,Xiaojing Dong 董晓静,2018-03-02 16:21:00,,OUTGOING,Friday,Ren,16,2018
+132,Ren Hui,Sydney Akers,2018-03-01 15:29:00,,OUTGOING,Thursday,Ren,15,2018
+133,Ren Hui,Garry Rodwel,2017-12-29 09:15:00,,OUTGOING,Friday,Ren,9,2017
+134,Ren Hui,Xuan Tran,2018-03-01 21:43:00,"Hi，I am Ren Hui, a graduate bronco in Santa Clara University. Can I connect with you?",OUTGOING,Thursday,Ren,21,2018
+135,Ren Hui,Tyler Young,2018-03-01 15:58:00,,OUTGOING,Thursday,Ren,15,2018
+136,Ren Hui,Spencer Dove,2018-03-01 15:30:00,,OUTGOING,Thursday,Ren,15,2018
+137,Ren Hui,Kristy Louie,2018-02-12 07:07:00,,OUTGOING,Monday,Ren,7,2018
+138,Ren Hui,Priyanka Pandey,2018-03-01 15:40:00,,OUTGOING,Thursday,Ren,15,2018
+139,Ren Hui,Aditya Maru,2018-01-26 22:01:00,,OUTGOING,Friday,Ren,22,2018
+140,Ren Hui,Tejo Prayaga,2017-12-01 09:39:00,Hi Tejo. Thank you for your impressive speech in Santa Clara University yesterday. I am a MS Business Analytics student. Can I connect with you?,OUTGOING,Friday,Ren,9,2017
+141,Ren Hui,Anand Iyer,2018-02-23 11:14:00,"Hi Sir, I am Ren Hui, airbnb host and also a student in Santa Clara University. Can I connect with you?",OUTGOING,Friday,Ren,11,2018
+142,Ren Hui,"Panchaya Pimprapoat, MBA",2018-01-27 17:26:00,,OUTGOING,Saturday,Ren,17,2018
+143,Ren Hui,"Rachel Salata, PHR",2018-01-27 17:26:00,,OUTGOING,Saturday,Ren,17,2018
+144,Ren Hui,Jingteng Xue,2018-02-25 17:48:00,苏高中98年入学1班,OUTGOING,Sunday,Ren,17,2018
+145,Ren Hui,Nan Ma,2018-02-14 08:23:00,,OUTGOING,Wednesday,Ren,8,2018
+146,Andrew Lim,Ren Hui,2018-07-09 11:14:00,,INCOMING,Monday,Ren,11,2018
+147,Mustafa Ray,Ren Hui,2018-07-19 18:07:00,,INCOMING,Thursday,Ren,18,2018
+148,Flora Zhao,Ren Hui,2018-07-17 05:19:00,"Hi Ren,   This is headhunter Flora Zhao. Currently I am looking for senior Risk position for my clients Ant Financial (Ex Alipay) and other startups. May I have your mobile No.? I would like to have a talk with you, let you know our opening better.   Thanks!  Flora",INCOMING,Tuesday,Ren,5,2018
+149,Caroline Aung,Ren Hui,2018-07-14 13:33:00,"Hi Ren, it was a pleasure meeting you during the design thinking workshop. I would love to keep in touch on LinkedIn. Best, Caroline ",INCOMING,Saturday,Ren,13,2018
+150,Sikha Das,Ren Hui,2018-07-04 14:51:00,,INCOMING,Wednesday,Ren,14,2018
+151,William Harrison Zurn,Ren Hui,2018-06-30 11:18:00,,INCOMING,Saturday,Ren,11,2018
+152,Stephen Hung,Ren Hui,2018-06-27 15:16:00,,INCOMING,Wednesday,Ren,15,2018
+153,Vandit Patel,Ren Hui,2018-06-25 08:37:00,,INCOMING,Monday,Ren,8,2018
+154,Krishna Ashili,Ren Hui,2018-06-24 08:43:00,,INCOMING,Sunday,Ren,8,2018
+155,Arthur Cheng,Ren Hui,2018-06-22 14:20:00,,INCOMING,Friday,Ren,14,2018
+156,Nikhila Rose Kuruvilla,Ren Hui,2018-06-22 12:43:00,,INCOMING,Friday,Ren,12,2018
+157,Marcus(Yiqun) Chen,Ren Hui,2018-06-08 10:05:00,,INCOMING,Friday,Ren,10,2018
+158,Suli Li,Ren Hui,2018-06-03 05:41:00,,INCOMING,Sunday,Ren,5,2018
+159,Yasunori Sato,Ren Hui,2018-06-02 20:38:00,,INCOMING,Saturday,Ren,20,2018
+160,Katharine Grant,Ren Hui,2018-05-31 14:46:00,,INCOMING,Thursday,Ren,14,2018
+161,Xingsheng Qian,Ren Hui,2018-05-29 08:41:00,,INCOMING,Tuesday,Ren,8,2018
+162,Rohitpal Singh,Ren Hui,2018-05-15 22:03:00,,INCOMING,Tuesday,Ren,22,2018
+163,Palak Bhatia,Ren Hui,2018-05-15 16:40:00,,INCOMING,Tuesday,Palak,16,2018
+164,Lanzhi Chen,Ren Hui,2018-05-12 08:53:00,,INCOMING,Saturday,Ren,8,2018
+165,Elva Shen,Ren Hui,2018-04-24 13:23:00,,INCOMING,Tuesday,Ren,13,2018
+166,Amey Baviskar,Ren Hui,2018-04-07 18:10:00,,INCOMING,Saturday,Ren,18,2018
+167,Manit Patel,Ren Hui,2018-03-29 18:30:00,,INCOMING,Thursday,Ren,18,2018
+168,Neville Fernandes,Ren Hui,2018-04-03 01:29:00,,INCOMING,Tuesday,Ren,1,2018
+169,Tracey Feng Wang,Ren Hui,2018-03-29 07:40:00,,INCOMING,Thursday,Ren,7,2018
+170,Di He,Ren Hui,2018-03-27 09:22:00,惠人您好，  我叫贺迪，是德州大学奥斯汀分校的一名在校生。目前正在申请Santa Clara的MSBA项目。希望能跟program里的同学请教一下在校学习和找工作方面的经验和体会。我跟一个应届毕业的小姑娘聊了一下，她觉得Santa Clara这个项目还不错。我希望能再听听有工作经验的同学在MSBA项目里的感受。  不知道是否方便跟您打个电话，或者微信联系一下。  谢谢， 贺迪,INCOMING,Tuesday,Ren,9,2018
+171,Abraham Flores,Ren Hui,2018-03-24 16:25:00,,INCOMING,Saturday,Ren,16,2018
+172,Kailin Hu,Ren Hui,2018-03-20 00:31:00,,INCOMING,Tuesday,Ren,0,2018
+173,Pedro Pablo Rodillo de Vicente,Ren Hui,2018-03-16 15:20:00,,INCOMING,Friday,Ren,15,2018
+174,Dr. Tobias S. Witte,Ren Hui,2018-03-14 01:58:00,,INCOMING,Wednesday,Ren,1,2018
+175,Carlos Rengifo,Ren Hui,2018-03-14 01:08:00,,INCOMING,Wednesday,Carlos,1,2018
+0,Ka Yan (Ariel) Yeung,Brit Weimer,2018-08-22 23:57:00,,OUTGOING,Wednesday,Ariel,23,2018
+1,Ka Yan (Ariel) Yeung,Lamya Alaoui,2018-08-11 19:03:00,,OUTGOING,Saturday,Ariel,19,2018
+2,Ka Yan (Ariel) Yeung,Necati Ertekin,2018-07-23 11:16:00,,OUTGOING,Monday,Ariel,11,2018
+3,Ka Yan (Ariel) Yeung,Randy Hoang,2018-07-25 18:32:00,,OUTGOING,Wednesday,Ariel,18,2018
+4,Ka Yan (Ariel) Yeung,Emily Huang,2018-02-28 19:34:00,,OUTGOING,Wednesday,Ariel,19,2018
+5,Ren Hui,Ka Yan (Ariel) Yeung,2018-08-22 11:00:00,,INCOMING,Wednesday,Ren,11,2018
+6,Jason Kratsa,Ka Yan (Ariel) Yeung,2018-08-14 10:49:00,"Hi Ka Yan (Ariel),    Impressive profile. I'm looking for Data Scientists and Data Engineers entry level on up...    Let me know if you have any interest:    https://www.allinanalytics.com/job-portal    Thanks!",INCOMING,Tuesday,Ariel,10,2018
+7,Mustafa Ray,Ka Yan (Ariel) Yeung,2018-07-20 07:49:00,,INCOMING,Friday,Ariel,7,2018
+8,Nikhila Rose Kuruvilla,Ka Yan (Ariel) Yeung,2018-07-23 23:47:00,,INCOMING,Monday,Ariel,23,2018
+9,Dhanshri Kekre,Ka Yan (Ariel) Yeung,2018-07-16 11:04:00,,INCOMING,Monday,Ariel,11,2018
+10,Caitlin Duchene,Ka Yan (Ariel) Yeung,2018-04-13 09:33:00,"I’d like to connect about a brief, paid discussion regarding  best practices for pricing of Auto products in the USA. I'd like to share additional info via email or phone about GLG and this request. Thanks!   Caitlin Cduchene@glgroup.com | +1 737-208-2067 www.glg.it http://glg.it/compliance/ ",INCOMING,Friday,Ariel,9,2018
+11,Sara Li,Ka Yan (Ariel) Yeung,2018-07-05 21:02:00,,INCOMING,Thursday,Ariel,21,2018
+12,Sydney Akers,Ka Yan (Ariel) Yeung,2018-06-15 11:08:00,,INCOMING,Friday,Ariel,11,2018
+13,Joohyeun Yi,Ka Yan (Ariel) Yeung,2018-05-21 17:59:00,,INCOMING,Monday,Ariel,17,2018
+14,Ji-Ying (Tracy) Lu,Ka Yan (Ariel) Yeung,2018-05-11 16:30:00,,INCOMING,Friday,Ariel,16,2018
+15,Becca Wilma Woodberry CYT,Ka Yan (Ariel) Yeung,2018-03-20 18:00:00,,INCOMING,Tuesday,Ariel,18,2018
+16,Nicole HW SONG,Ka Yan (Ariel) Yeung,2018-03-19 20:08:00,,INCOMING,Monday,Ariel,20,2018
+0,Palak Bhatia,Casey Schmitt,2018-06-20 18:55:00,"Hi Casey,  We met during the Sprint Career Fair at SCU's Business school. It would be nice to connect here as well.  Thanks ",OUTGOING,Wednesday,Palak,18,2018
+1,Palak Bhatia,Shuang Hao,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+2,Palak Bhatia,Nivedita Varadharajan,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+3,Palak Bhatia,Austin Costello,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+4,Palak Bhatia,Jagadish Mangalore,2018-05-27 15:45:00,Hello Jagadish. How are you? Just wanted to connect with you on LinkedIN,OUTGOING,Sunday,Palak,15,2018
+5,Palak Bhatia,Shay (Xuan) Cui,2018-05-18 22:58:00,,OUTGOING,Friday,Palak,22,2018
+6,Palak Bhatia,Thierry Bourroux,2018-05-22 13:52:00,,OUTGOING,Tuesday,Palak,13,2018
+7,Palak Bhatia,Sunanda Daftari,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+8,Palak Bhatia,Kailin Hu,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+9,Palak Bhatia,Seoyoung Kim,2018-05-18 22:57:00,,OUTGOING,Friday,Palak,22,2018
+10,Palak Bhatia,Steven Wilson,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+11,Palak Bhatia,Neville Fernandes,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+12,Palak Bhatia,Sara Li,2018-05-18 22:57:00,,OUTGOING,Friday,Palak,22,2018
+13,Palak Bhatia,Alan Tan,2018-05-18 23:01:00,,OUTGOING,Friday,Palak,23,2018
+14,Palak Bhatia,Yunjia(Echo) Xu,2018-05-18 22:57:00,,OUTGOING,Friday,Palak,22,2018
+15,Palak Bhatia,Ben Richman,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+16,Palak Bhatia,Nikhila Rose Kuruvilla,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+17,Palak Bhatia,Lipin Yuan,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+18,Palak Bhatia,Allison Yan Cao,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+19,Palak Bhatia,Jeffrey Glupker,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+20,Palak Bhatia,Ji-Ying (Tracy) Lu,2018-05-18 22:58:00,,OUTGOING,Friday,Palak,22,2018
+21,Palak Bhatia,Bochen Wang,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+22,Palak Bhatia,Jacob Sisk,2018-05-18 22:57:00,"Hello Jacob, We met at the SCU Symposium today. It was a very nice talk at your end. I would like to connect with you here. Thanks.",OUTGOING,Friday,Palak,22,2018
+23,Palak Bhatia,Daniel Trepanier,2018-05-18 23:02:00,"Hello Daniel, we met at the SCU event today. It would be nice to connect here as well. ",OUTGOING,Friday,Palak,23,2018
+24,Palak Bhatia,Preethi S Ranganathan,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+25,Palak Bhatia,Necati Ertekin,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+26,Palak Bhatia,Alice Wu,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+27,Palak Bhatia,Joohyeun Yi,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+28,Palak Bhatia,SALONI SHARMA,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+29,Palak Bhatia,Christopher DeMartini,2018-05-18 22:55:00,"Hello Chris, We met today at SCU Symposium. it would be nice to connect with you here as well. ",OUTGOING,Friday,Palak,22,2018
+30,Palak Bhatia,Mishita Agarwal,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+31,Palak Bhatia,Jieyi Deng,2018-05-18 23:00:00,,OUTGOING,Friday,Palak,23,2018
+32,Palak Bhatia,Vinit Nair,2018-05-18 22:59:00,,OUTGOING,Friday,Palak,22,2018
+33,Palak Bhatia,Ming-Chang(Kevin) Chiang,2018-05-18 22:58:00,,OUTGOING,Friday,Palak,22,2018
+34,Palak Bhatia,Xiaojing Dong 董晓静,2018-05-18 22:57:00,,OUTGOING,Friday,Palak,22,2018
+35,Palak Bhatia,Ramie Fernandez,2018-05-15 16:42:00,,OUTGOING,Tuesday,Palak,16,2018
+36,Palak Bhatia,Michael Lee,2018-05-15 16:38:00,"Hi Michael,  I am a MS Business Analyst student at SCU. We had a conversation at the spring career fair at school. It would be really nice to be able to connect here. Also would it be ok,  if I share my resume with you now? I am actively looking for internships. Thanks. ",OUTGOING,Tuesday,Palak,16,2018
+37,Palak Bhatia,Rafael Torres,2018-05-15 16:32:00,"Hi Rafael,  I am a student of Professor Kim's Fintech class at SCU. It would be really nice to be able to connect with you here on LinkedIn",OUTGOING,Tuesday,Palak,16,2018
+38,Palak Bhatia,Toby McChesney,2018-05-15 16:40:00,,OUTGOING,Tuesday,Palak,16,2018
+39,Palak Bhatia,Susan Gutierrez,2018-05-15 16:41:00,,OUTGOING,Tuesday,Palak,16,2018
+40,Palak Bhatia,Ren Hui,2018-05-15 16:40:00,,OUTGOING,Tuesday,Palak,16,2018
+41,Palak Bhatia,Jordan Saffold,2018-05-15 16:41:00,,OUTGOING,Tuesday,Palak,16,2018
+42,Palak Bhatia,Hrishikesh Panchbhai,2018-05-15 16:41:00,,OUTGOING,Tuesday,Palak,16,2018
+43,Palak Bhatia,Fernando Gouveia,2018-05-15 16:36:00,"Hi Fernando,  I am a student of Professor Kim's Fintech class at SCU. We had a brief chat about how the crypto's work across countries at different prices. It would be really nice to be able to connect with you here. ",OUTGOING,Tuesday,Palak,16,2018
+44,Palak Bhatia,Tuhina Goel,2018-05-15 16:39:00,,OUTGOING,Tuesday,Palak,16,2018
+45,Palak Bhatia,Jinal Goradia,2018-05-15 16:41:00,,OUTGOING,Tuesday,Palak,16,2018
+46,Palak Bhatia,Pallavi Mahajan,2018-05-15 16:40:00,,OUTGOING,Tuesday,Palak,16,2018
+47,Tejaswini Kudapu - IT Recruiter,Palak Bhatia,2018-08-21 14:37:00,"Hi,  How are you doing? Are you looking for any long term contract positions??",INCOMING,Tuesday,Palak,14,2018
+48,Utkarsh Binay,Palak Bhatia,2018-08-21 06:58:00,,INCOMING,Tuesday,Palak,6,2018
+49,KHUSHBU GOHIL,Palak Bhatia,2018-08-17 05:10:00,"Hi,  I am Khushbu Gohil and would like to pursue Masters in Business Analytics from Santa Clara next year. I would appreciate if i can connect with you regarding the same.",INCOMING,Friday,Palak,5,2018
+50,Ravi Vamsi Patchigolla,Palak Bhatia,2018-08-18 14:38:00,,INCOMING,Saturday,Palak,14,2018
+51,Shivam Patidar,Palak Bhatia,2018-08-17 04:30:00,,INCOMING,Friday,Palak,4,2018
+52,Loverose Sandhu,Palak Bhatia,2018-08-12 06:40:00,,INCOMING,Sunday,Palak,6,2018
+53,Deebika Manian,Palak Bhatia,2018-08-14 02:35:00,,INCOMING,Tuesday,Palak,2,2018
+54,Krish Bhardwaj,Palak Bhatia,2018-08-12 04:11:00,,INCOMING,Sunday,Palak,4,2018
+55,Akash Jadhav,Palak Bhatia,2018-08-07 15:23:00,,INCOMING,Tuesday,Palak,15,2018
+56,Kishore Babu,Palak Bhatia,2018-08-03 03:31:00,,INCOMING,Friday,Palak,3,2018
+57,Vikas kumar,Palak Bhatia,2018-07-29 18:32:00,,INCOMING,Sunday,Palak,18,2018
+58,Mia Bajic,Palak Bhatia,2018-07-17 21:48:00,,INCOMING,Tuesday,Palak,21,2018
+59,basant lal,Palak Bhatia,2018-07-16 10:12:00,,INCOMING,Monday,Palak,10,2018
+60,Nick Paquin,Palak Bhatia,2018-07-13 08:57:00,,INCOMING,Friday,Palak,8,2018
+61,Zhonghe Han,Palak Bhatia,2018-07-12 06:11:00,,INCOMING,Thursday,Palak,6,2018
+62,Antim Chouhan,Palak Bhatia,2018-07-10 13:01:00,,INCOMING,Tuesday,Palak,13,2018
+63,Nayyar Shuja Khan,Palak Bhatia,2018-07-04 03:24:00,,INCOMING,Wednesday,Palak,3,2018
+64,Vikas Radhakrishna Shetty,Palak Bhatia,2018-07-02 00:42:00,,INCOMING,Monday,Palak,0,2018
+65,Aatish Azad,Palak Bhatia,2018-06-26 04:45:00,,INCOMING,Tuesday,Palak,4,2018
+66,Amardeep Paul,Palak Bhatia,2018-06-25 15:44:00,,INCOMING,Monday,Palak,15,2018
+67,Manisha Bhari,Palak Bhatia,2018-06-25 11:53:00,,INCOMING,Monday,Palak,11,2018
+68,Ria Sikdar,Palak Bhatia,2018-06-14 22:23:00,,INCOMING,Thursday,Palak,22,2018
+69,Aditi Tupsakhare,Palak Bhatia,2018-05-31 01:58:00,,INCOMING,Thursday,Palak,1,2018
+70,Katharine Grant,Palak Bhatia,2018-05-31 14:43:00,,INCOMING,Thursday,Palak,14,2018
+71,VIRAJ SAKPAL,Palak Bhatia,2018-05-29 12:25:00,,INCOMING,Tuesday,Palak,12,2018
+72,Tracey Feng W.,Palak Bhatia,2018-05-24 23:36:00,,INCOMING,Thursday,Palak,23,2018
+73,Yezhu Li,Palak Bhatia,2018-05-23 14:43:00,,INCOMING,Wednesday,Palak,14,2018
+74,Pradeep Kumar,Palak Bhatia,2018-05-23 14:43:00,,INCOMING,Wednesday,Palak,14,2018
+75,Divya Mittal,Palak Bhatia,2017-12-22 03:46:00,,INCOMING,Friday,Palak,3,2017
+76,Neville Fernandes,Palak Bhatia,2018-05-21 14:12:00,,INCOMING,Monday,Palak,14,2018
+77,Amey Baviskar,Palak Bhatia,2018-05-19 14:22:00,,INCOMING,Saturday,Palak,14,2018
+78,Preethi S Ranganathan,Palak Bhatia,2017-12-12 22:57:00,,INCOMING,Tuesday,Palak,22,2017
+79,Mishita Agarwal,Palak Bhatia,2017-11-14 18:41:00,,INCOMING,Tuesday,Palak,18,2017
+80,Vinit Nair,Palak Bhatia,2018-02-01 22:29:00,,INCOMING,Thursday,Palak,22,2018
+81,Rohit Rajput,Palak Bhatia,2018-05-03 02:47:00,,INCOMING,Thursday,Palak,2,2018
+82,Aditya Maru,Palak Bhatia,2018-05-12 17:21:00,,INCOMING,Saturday,Palak,17,2018
+83,gaurav kumar,Palak Bhatia,2018-05-03 01:26:00,,INCOMING,Thursday,Palak,1,2018
+84,Tosha K.,Palak Bhatia,2018-04-25 13:04:00,,INCOMING,Wednesday,Palak,13,2018
+85,Lacy Pereira,Palak Bhatia,2018-04-16 05:58:00,,INCOMING,Monday,Palak,5,2018
+86,Swati Sinha,Palak Bhatia,2018-04-10 21:51:00,,INCOMING,Tuesday,Palak,21,2018
+87,Shailesh Dwivedi,Palak Bhatia,2018-04-05 08:47:00,,INCOMING,Thursday,Palak,8,2018
+88,Anindita Dutta,Palak Bhatia,2018-04-05 00:53:00,,INCOMING,Thursday,Palak,0,2018
+89,Kiran Kumar Choppara,Palak Bhatia,2018-04-04 04:31:00,,INCOMING,Wednesday,Palak,4,2018
+90,Ayswarya Ravichandran,Palak Bhatia,2018-04-03 23:48:00,,INCOMING,Tuesday,Palak,23,2018
+91,Lavanya Chowdary,Palak Bhatia,2018-04-02 00:48:00,,INCOMING,Monday,Palak,0,2018
+92,kunal shriwas,Palak Bhatia,2018-03-31 00:17:00,,INCOMING,Saturday,Palak,0,2018
+93,Naresh P,Palak Bhatia,2018-03-30 08:05:00,,INCOMING,Friday,Palak,8,2018
+94,Abhinav Malviya,Palak Bhatia,2018-03-28 12:54:00,,INCOMING,Wednesday,Palak,12,2018
+95,Madhuri Singh,Palak Bhatia,2018-03-28 11:48:00,,INCOMING,Wednesday,Palak,11,2018
+96,Laurry Wailes,Palak Bhatia,2018-03-27 14:04:00,,INCOMING,Tuesday,Palak,14,2018
+97,Mogalaiah  Gannepaka ,Palak Bhatia,2018-03-25 06:16:00,,INCOMING,Sunday,Palak,6,2018
+98,Neha Yadav,Palak Bhatia,2018-03-23 09:53:00,,INCOMING,Friday,Palak,9,2018
+99,Prasann Pant,Palak Bhatia,2018-03-22 18:52:00,,INCOMING,Thursday,Palak,18,2018
+100,Aruna RJ,Palak Bhatia,2018-03-21 07:04:00,,INCOMING,Wednesday,Palak,7,2018
+101,Parul Malhotra,Palak Bhatia,2018-03-18 05:34:00,,INCOMING,Sunday,Palak,5,2018
+102,Devi Ishwarya,Palak Bhatia,2018-03-13 05:40:00,,INCOMING,Tuesday,Palak,5,2018
+103,Ram Phelix,Palak Bhatia,2018-03-03 20:20:00,,INCOMING,Saturday,Palak,20,2018
+104,Abhishek Dutta,Palak Bhatia,2018-03-03 19:56:00,,INCOMING,Saturday,Palak,19,2018
+105,Ashish Jain,Palak Bhatia,2018-02-25 03:01:00,,INCOMING,Sunday,Palak,3,2018
+106,Harshini E,Palak Bhatia,2018-02-24 21:06:00,,INCOMING,Saturday,Palak,21,2018
+0,Sunanda Daftari,Diksha Jaiswal,2018-08-16 00:41:00,,OUTGOING,Thursday,Sunanda,0,2018
+1,Sunanda Daftari,Sarvani Allu,2018-07-11 17:35:00,,OUTGOING,Wednesday,Sunanda,17,2018
+2,Sunanda Daftari,Wenjing Zhang,2018-07-25 20:16:00,,OUTGOING,Wednesday,Sunanda,20,2018
+3,Sunanda Daftari,Daniel Friedman,2018-08-04 16:22:00,,OUTGOING,Saturday,Sunanda,16,2018
+4,Sunanda Daftari,Raviteja Lokireddy,2018-08-04 15:34:00,,OUTGOING,Saturday,Sunanda,15,2018
+5,Sunanda Daftari,Anshu Garg,2018-08-04 15:34:00,,OUTGOING,Saturday,Sunanda,15,2018
+6,Sunanda Daftari,L K Mrudula Singampalli,2018-08-04 15:33:00,,OUTGOING,Saturday,Sunanda,15,2018
+7,Sunanda Daftari,Karlin Leal,2018-07-25 22:18:00,"Hi Karlin Leal,  I am Sunanda Daftari, currently pursuing Master of Science in Business Analytics from SCU. I see that Uber is currently hiring for Data Analyst-Financial Products position and I am interested for the same. I would like to connect with you and learn more about this position. Thanks.",OUTGOING,Wednesday,Sunanda,22,2018
+8,Sunanda Daftari,Pan Wu,2018-07-25 22:55:00,"Hello Pan Wu, Loved your presentation tonight!  Thanks to you and your team for organizing this event. It was truly a valuable learning experience.",OUTGOING,Wednesday,Sunanda,22,2018
+9,Sunanda Daftari,Quan Wang,2018-07-25 20:35:00,,OUTGOING,Wednesday,Sunanda,20,2018
+10,Sunanda Daftari,Bonnie Barrilleaux,2018-07-25 22:43:00,"Hello Bonnie Barrilleaux,  Loved you presentation tonight about the 'Rich getting richer' and how you  and your team went about solving it. Thanks to you and the entire Linkedin team for this event. It was truly a valuable learning experience. ",OUTGOING,Wednesday,Sunanda,22,2018
+11,Sunanda Daftari,Nadiya Hayes,2018-07-25 20:45:00,,OUTGOING,Wednesday,Sunanda,20,2018
+12,Sunanda Daftari,James Sorenson,2018-07-25 20:40:00,,OUTGOING,Wednesday,Sunanda,20,2018
+13,Sunanda Daftari,Emily Cheng,2018-07-25 20:16:00,,OUTGOING,Wednesday,Sunanda,20,2018
+14,Sunanda Daftari,Jing Hao,2018-07-23 21:55:00,"Hi Jing Hao,  I am Sunanda Daftari, currently pursuing Master of Science in Business Analytics from SCU. I see that Wish is currently hiring for Data Analyst positions and I am interested for the same. I would like to connect with you and learn more about this position. Thanks.",OUTGOING,Monday,Sunanda,21,2018
+15,Sunanda Daftari,Mary Beth Barker,2018-07-14 20:01:00,Hello Mary ,OUTGOING,Saturday,Sunanda,20,2018
+16,Sunanda Daftari,Sruthi Beesabathuni,2018-07-13 08:02:00,,OUTGOING,Friday,Sunanda,8,2018
+17,Sunanda Daftari,Vysyaraju Lakshmi Chaitanya,2018-07-12 22:25:00,,OUTGOING,Thursday,Sunanda,22,2018
+18,Sunanda Daftari,Kiran Singh,2018-07-12 22:25:00,,OUTGOING,Thursday,Sunanda,22,2018
+19,Sunanda Daftari,Sowmya Murali,2018-07-11 17:35:00,,OUTGOING,Wednesday,Sunanda,17,2018
+20,Sunanda Daftari,Carina (Chujun) Zhang,2018-07-06 07:16:00,,OUTGOING,Friday,Sunanda,7,2018
+21,Sunanda Daftari,Gillian Wang,2018-06-16 22:03:00,,OUTGOING,Saturday,Sunanda,22,2018
+22,Sunanda Daftari,Likhita Kanneganti,2018-06-16 22:04:00,,OUTGOING,Saturday,Sunanda,22,2018
+23,Sunanda Daftari,Katharine Grant,2018-06-09 21:36:00,,OUTGOING,Saturday,Sunanda,21,2018
+24,Sunanda Daftari,Varsha Sastry,2018-05-03 09:35:00,,OUTGOING,Thursday,Sunanda,9,2018
+25,Sunanda Daftari,Antra Sinha,2018-05-02 09:08:00,,OUTGOING,Wednesday,Sunanda,9,2018
+26,Sunanda Daftari,Srikanth Yellamraju,2018-05-02 09:25:00,"Hello Srikanth Yellamraju, This is Sunanda Daftari. It was a great experience working with you at the IIM Pinnacle event.  The event was really informative and I thoroughly enjoyed volunteering for the same. Wish to keep in touch. Thanks. ",OUTGOING,Wednesday,Sunanda,9,2018
+27,Sunanda Daftari,Amith Dsouza,2018-05-02 09:23:00,"Hello Amith Dsouza, This is Sunanda Daftari. It was a great experience working with you at the IIM Pinnacle event.  The event was really informative  and I thoroughly enjoyed volunteering for the same. Wish to keep in touch. Thanks. ",OUTGOING,Wednesday,Sunanda,9,2018
+28,Sunanda Daftari,"Nishit ""Nish"" Rawat",2018-05-02 09:12:00,"Hello Nishit Rawat, This is Sunanda Daftari. It was great speaking with you at the IIM Pinnacle event in Mountain View last Saturday. It was great to learn from you and get a little perspective from someone within the industry. Thank you so much for your valuable time. Wish to keep in touch. Thanks ",OUTGOING,Wednesday,Sunanda,9,2018
+29,Sunanda Daftari,Ashima Jain,2018-05-02 09:15:00,"Hello Ashima Jain, This is Sunanda Daftari. It was a great experience working under you at the IIM Pinnacle event.  The event was really informative and I thoroughly enjoyed volunteering for the same. Wish to keep in touch. ",OUTGOING,Wednesday,Sunanda,9,2018
+30,Sunanda Daftari,"Yanmin Tao, MBA, PMP",2018-04-24 16:31:00,,OUTGOING,Tuesday,Sunanda,16,2018
+31,Sunanda Daftari,Battula Asha,2018-04-19 17:24:00,,OUTGOING,Thursday,Sunanda,17,2018
+32,Sunanda Daftari,Vibhu Saxena,2018-03-15 09:43:00,"Hello Vibhu Saxena,, This is Sunanda Daftari. It was great to learn from you and get a little perspective from someone within the industry . It was nice meeting you. Thank you so much for such an excellent presentation and your valuable time.  Thank you.",OUTGOING,Thursday,Sunanda,9,2018
+33,Sunanda Daftari,Hai Guan,2018-03-15 09:44:00,"Hello Hai Guan, This is Sunanda Daftari. It was great to learn from you and get a little perspective from someone within the industry . It was nice meeting you. Thank you so much for such an excellent presentation and your valuable time.  Thank you.",OUTGOING,Thursday,Sunanda,9,2018
+34,Sunanda Daftari,Jyoti Jain,2018-03-07 07:29:00,,OUTGOING,Wednesday,Sunanda,7,2018
+35,Sunanda Daftari,Sikha Das,2018-03-07 07:30:00,,OUTGOING,Wednesday,Sunanda,7,2018
+36,Sunanda Daftari,Swaroop Sabnis,2018-03-07 07:29:00,,OUTGOING,Wednesday,Sunanda,7,2018
+37,Sunanda Daftari,Steven Wilson,2017-12-25 13:23:00,,OUTGOING,Monday,Sunanda,13,2017
+38,Siva Kumar Naik  Munavat,Sunanda Daftari,2018-08-21 22:49:00,,INCOMING,Tuesday,Sunanda,22,2018
+39,Chandni Joshi Purohit,Sunanda Daftari,2018-08-14 20:09:00,,INCOMING,Tuesday,Sunanda,20,2018
+40,Munawwar Ahsan,Sunanda Daftari,2018-08-04 14:11:00,,INCOMING,Saturday,Sunanda,14,2018
+41,Jayalakshmi Vaidyanathan,Sunanda Daftari,2018-07-27 13:41:00,,INCOMING,Friday,Sunanda,13,2018
+42,Dhivya Roopa Ravi(Sundarakamalan),Sunanda Daftari,2018-07-26 17:12:00,,INCOMING,Thursday,Sunanda,17,2018
+43,Ravi Vamsi Patchigolla,Sunanda Daftari,2018-07-21 06:17:00,,INCOMING,Saturday,Sunanda,6,2018
+44,Mia Bajic,Sunanda Daftari,2018-07-18 19:20:00,,INCOMING,Wednesday,Sunanda,19,2018
+45,Mustafa Ray,Sunanda Daftari,2018-07-14 07:55:00,,INCOMING,Saturday,Sunanda,7,2018
+46,Dipak Bhatt,Sunanda Daftari,2018-07-04 07:56:00,,INCOMING,Wednesday,Sunanda,7,2018
+47,Ruchir Mahajan,Sunanda Daftari,2018-06-28 19:03:00,,INCOMING,Thursday,Sunanda,19,2018
+48,Tulasi Krishna Bimana,Sunanda Daftari,2018-05-21 07:44:00,,INCOMING,Monday,Sunanda,7,2018
+49,Palak Bhatia,Sunanda Daftari,2018-05-18 23:00:00,,INCOMING,Friday,Palak,23,2018
+50,VIRAJ SAKPAL,Sunanda Daftari,2018-05-07 11:51:00,,INCOMING,Monday,Sunanda,11,2018
+51,Karthik Shanmugasundaram,Sunanda Daftari,2018-04-29 18:21:00,,INCOMING,Sunday,Sunanda,18,2018
+52,Ramya Nalam,Sunanda Daftari,2018-04-24 21:46:00,,INCOMING,Tuesday,Sunanda,21,2018
+53,Elva Shen,Sunanda Daftari,2018-04-24 13:28:00,,INCOMING,Tuesday,Sunanda,13,2018
+54,Neville Fernandes,Sunanda Daftari,2018-04-03 01:31:00,,INCOMING,Tuesday,Sunanda,1,2018
+55,Shilpa C,Sunanda Daftari,2018-04-02 13:33:00,,INCOMING,Monday,Sunanda,13,2018
+56,Tracey Feng Wang,Sunanda Daftari,2018-03-29 00:05:00,,INCOMING,Thursday,Sunanda,0,2018
+57,Vidhi Baid,Sunanda Daftari,2018-03-22 07:14:00,,INCOMING,Thursday,Sunanda,7,2018
+58,Deepanshu Pincha,Sunanda Daftari,2018-03-07 01:16:00,,INCOMING,Wednesday,Sunanda,1,2018
+0,Kiran Singh,Lena Nguyen,2018-08-08 15:11:00,,OUTGOING,Wednesday,Kiran,15,2018
+1,Kiran Singh,Sabrina Tong,2018-07-22 16:02:00,,OUTGOING,Sunday,Kiran,16,2018
+2,Kiran Singh,Allison Yan Cao,2018-07-19 12:32:00,,OUTGOING,Thursday,Kiran,12,2018
+3,Kiran Singh,Jimmy Nguyen,2018-07-13 14:43:00,,OUTGOING,Friday,Kiran,14,2018
+4,Kiran Singh,Benjamin Lau,2018-06-01 12:10:00,Remember me from Cherry Services????,OUTGOING,Friday,Kiran,12,2018
+5,Kiran Singh,Nikhila Rose Kuruvilla,2018-05-02 09:59:00,,OUTGOING,Wednesday,Kiran,9,2018
+6,Kiran Singh,Greg Murray,2018-05-02 09:57:00,,OUTGOING,Wednesday,Kiran,9,2018
+7,Kiran Singh,Ji-Ying (Tracy) Lu,2018-05-02 09:58:00,,OUTGOING,Wednesday,Kiran,9,2018
+8,Kiran Singh,Alex Brar,2018-04-03 11:16:00,,OUTGOING,Tuesday,Kiran,11,2018
+9,Aashka Aradhya,Kiran Singh,2018-08-12 11:34:00,,INCOMING,Sunday,Kiran,11,2018
+10,Tinashe Hwande,Kiran Singh,2018-08-11 11:47:00,,INCOMING,Saturday,Kiran,11,2018
+11,John Coelho,Kiran Singh,2018-08-08 15:06:00,,INCOMING,Wednesday,Kiran,15,2018
+12,Cara Sakurai,Kiran Singh,2018-08-04 11:14:00,,INCOMING,Saturday,Kiran,11,2018
+13,Candice Ninan,Kiran Singh,2018-07-24 21:27:00,,INCOMING,Tuesday,Kiran,21,2018
+14,Ibrahima Bah,Kiran Singh,2018-07-23 19:06:00,,INCOMING,Monday,Kiran,19,2018
+15,Gino Leonio,Kiran Singh,2018-07-23 13:09:00,,INCOMING,Monday,Kiran,13,2018
+16,Mustafa Ray,Kiran Singh,2018-07-20 10:16:00,,INCOMING,Friday,Kiran,10,2018
+17,James Martinez M.B.A.,Kiran Singh,2018-07-17 16:51:00,,INCOMING,Tuesday,Kiran,16,2018
+18,Sunanda Daftari,Kiran Singh,2018-07-12 22:25:00,,INCOMING,Thursday,Sunanda,22,2018
+19,Jenn Tran,Kiran Singh,2018-07-12 11:32:00,,INCOMING,Thursday,Kiran,11,2018
+20,April Butler,Kiran Singh,2018-06-07 06:39:00,,INCOMING,Thursday,Kiran,6,2018
+21,Katharine Grant,Kiran Singh,2018-05-31 14:59:00,,INCOMING,Thursday,Kiran,14,2018
+22,Andrew Carnosso,Kiran Singh,2018-05-30 10:00:00,,INCOMING,Wednesday,Kiran,10,2018
+23,Neville Fernandes,Kiran Singh,2018-05-21 13:29:00,,INCOMING,Monday,Kiran,13,2018
+24,Shuang Hao,Kiran Singh,2018-05-02 09:54:00,,INCOMING,Wednesday,Kiran,9,2018
+25,Jessica Whalen,Kiran Singh,2018-04-03 10:51:00,,INCOMING,Tuesday,Kiran,10,2018
+26,Ming-Chang(Kevin) Chiang,Kiran Singh,2018-04-01 05:36:00,,INCOMING,Sunday,Kiran,5,2018
+27,Suzanna Hodder,Kiran Singh,2018-03-27 10:55:00,,INCOMING,Tuesday,Kiran,10,2018
+28,Melanie Evans,Kiran Singh,2018-03-01 15:38:00,,INCOMING,Thursday,Kiran,15,2018
+0,Sarita Inguava,John Howell,2018-08-12 11:51:00,,OUTGOING,Sunday,Sarita,11,2018
+1,Praveen Kumar,Sarita Inguava,2018-08-11 09:35:00,,INCOMING,Saturday,Sarita,9,2018
+2,Munawwar Ahsan,Sarita Inguava,2018-08-04 14:10:00,,INCOMING,Saturday,Sarita,14,2018
+3,A S,Sarita Inguava,2018-07-26 07:59:00,,INCOMING,Thursday,Sarita,7,2018
+4,Katharine Grant,Sarita Inguava,2018-07-19 14:53:00,,INCOMING,Thursday,Sarita,14,2018
+5,Sowmya Murali,Sarita Inguava,2018-07-18 15:34:00,,INCOMING,Wednesday,Sarita,15,2018
+6,Ankit Soni,Sarita Inguava,2018-07-18 09:51:00,,INCOMING,Wednesday,Sarita,9,2018
+7,Dhanshri Kekre,Sarita Inguava,2018-07-08 07:58:00,,INCOMING,Sunday,Sarita,7,2018
+8,Sara Li,Sarita Inguava,2018-07-04 20:18:00,,INCOMING,Wednesday,Sarita,20,2018
+9,Shuang Hao,Sarita Inguava,2018-07-04 18:46:00,,INCOMING,Wednesday,Sarita,18,2018
+10,Himat Purshotam Bhanushali,Sarita Inguava,2018-04-08 18:31:00,"Hello Sarita,  I came across your profile while I was applying for the position of Software Engineer at ProQuest as I am seeking full-time job opportunities.  I thought it would be great to have you as a contact here.   Looking forward to connecting with you!  Regards Himat",INCOMING,Sunday,Sarita,18,2018
+11,Mini Kalkat,Sarita Inguava,2018-05-06 22:58:00,,INCOMING,Sunday,Sarita,22,2018
+12,Aravind Jangam,Sarita Inguava,2018-06-09 13:05:00,,INCOMING,Saturday,Sarita,13,2018
+13,Ren Hui,Sarita Inguava,2018-06-26 16:38:00,,INCOMING,Tuesday,Ren,16,2018
+14,Grant Spencer,Sarita Inguava,2018-06-28 20:03:00,,INCOMING,Thursday,Sarita,20,2018
+15,Neville Fernandes,Sarita Inguava,2018-05-21 13:34:00,,INCOMING,Monday,Sarita,13,2018
+16,Natan Bensoussan,Sarita Inguava,2018-04-01 00:15:00,,INCOMING,Sunday,Sarita,0,2018
+17,Shilpa Murthy Guntur,Sarita Inguava,2018-04-25 06:16:00,,INCOMING,Wednesday,Sarita,6,2018
+18,Hussain D,Sarita Inguava,2018-04-23 12:37:00,"Dear Sarita,    Greetings!  I am exploring my LinkedIn to full fill SDET Position for my project, it short term project in onsite location - Santa Clara-CA  Please let me know your interest for this role?  Looking forward to hear back from you.   Regards Hussain",INCOMING,Monday,Sarita,12,2018
+19,Shivesh Srivastava,Sarita Inguava,2017-11-28 10:42:00,,INCOMING,Tuesday,Sarita,10,2017
+20,Suresh Deevi,Sarita Inguava,2017-12-29 05:58:00,,INCOMING,Friday,Sarita,5,2017
+21,"Kiran Vanam, Ph.D.",Sarita Inguava,2017-12-09 09:13:00,,INCOMING,Saturday,Sarita,9,2017
+22,Raghu Nandan Machavaram,Sarita Inguava,2017-11-29 09:04:00,,INCOMING,Wednesday,Sarita,9,2017
+23,sankaranarayanan subbayya,Sarita Inguava,2017-12-01 09:16:00,,INCOMING,Friday,Sarita,9,2017
+24,Vinay Bharadwaj,Sarita Inguava,2017-12-04 10:56:00,,INCOMING,Monday,Sarita,10,2017
+25,Kamala Kamath,Sarita Inguava,2018-02-23 09:54:00,,INCOMING,Friday,Sarita,9,2018
+26,Leonardo Barbosa,Sarita Inguava,2018-03-11 21:28:00,,INCOMING,Sunday,Leo,21,2018
+27,Aashka Aradhya,Sarita Inguava,2018-03-14 18:44:00,,INCOMING,Wednesday,Sarita,18,2018
+28,Dhiren Rikhra,Sarita Inguava,2018-03-15 18:59:00,,INCOMING,Thursday,Sarita,18,2018
+29,Carlos Rengifo,Sarita Inguava,2018-03-08 08:37:00,,INCOMING,Thursday,Carlos,8,2018
